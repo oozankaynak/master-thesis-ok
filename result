@@ -1,361 +1,361 @@
-,ix,title,rating,calories,protein,fat,tags,profit,dec_var,period
-38,38,"Braised Veal Breast with Herbs, Pernod, and Tomatoes ",4.25,1454,103,96,"bon appétitbraisecitrusfish,garlic,herbolive,onionpernodsauté,tomatoveal,white wine,",9.14,"38,1",1
-167,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,1",1
-183,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,1",1
-228,228,Lebanese Lamb and Bean Stew ,4.04,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",9.64,"228,1",1
-346,346,Southern Fried Chicken with Country Gravy ,3.99,1429,68,125,"deep-fry,dinnerfamily reunionno sugar added,party,peanut free,picnicsoy freetree nut free,",6.96,"346,1",1
-349,349,"Chicken Fricassée with Carrots, Mustard Greens and Avgolemono Sauce ",3.96,1386,105,98,"bake,bon appétit,chickenfalllemon,marinate,mustard,mustard greens",8.85,"349,1",1
-369,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,1",1
-535,535,Pretty Easter Pasta Pie (Crostata di tagliolini ) ,3.81,899,42,47,"easter,mozzarellaprosciutto,",9.28,"535,1",1
-542,542,"Hummus-Crusted Alaskan Wild King Salmon Over a Bed of French Beans, Red Onion, and Cucumber Salad with Lemon Oil ",2.95,1496,63,123,"advance prep required,beanbroil,chickpea,cucumber,dairy freedinnerfish,lemon,mothers day,pescatariansalmon,",5.02,"542,1",1
-605,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,1",1
-633,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,1",1
-646,646,Veal Scallops Oporto ,3.8,1373,133,84,"beef,dairy,fortified winehouse & gardenmilk/creamport,sauté,veal,wine,winter",2.8,"646,1",1
-668,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,1",1
-680,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,1",1
-716,716,Bacon-Wrapped Quail Stuffed with Goat Cheese ,4.08,965,63,76,"bacon,bakecheesefallgarlic,goat cheesegrill/barbecueherbpoultry,quail,stuffing/dressing,thanksgiving,winter",4.65,"716,1",1
-719,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,1",1
-800,800,Fish Soup with Aïoli Croutons ,3.95,1093,133,47,"bon appétitcarrot,fennel,fish,garlicleekmayonnaise,soup/stewtomato,white wine,winter",8.45,"800,1",1
-873,873,Croque Monsieur ,3.96,819,55,48,"back to school,cheesefall,grill/barbecuehamporksandwichswiss cheese",8.78,"873,1",1
-908,908,"Beef, Mushroom, and Broccoli Stir-Fry ",3.95,650,38,40,"beef,broccoligingermushroom,soy sauce,stir-frywhite wine,",8.53,"908,1",1
-915,915,Provençal Chicken Stew ,4.0,775,48,49,"back to schoololive,potlucksauté,slow cookersoup/stewstewtomatowinter",7.8,"915,1",1
-925,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,1",1
-1057,1057,Jenga Ribs ,4.12,1377,76,114,"bake,bon appétitpork rib,spicesuper bowl,",8.87,"1057,1",1
-1097,1097,Vietnamese Pho Rice Noodle Soup with Beef ,4.12,1084,88,38,"anise,beef,cilantro,clovedairy freedinner,gingerhot pepperlimenoodleonion,peanut freesoup/stew,soy freestir-frytree nut freewheat/gluten-free,",9.48,"1097,1",1
-1270,1270,Chicken Sauté with Sherry ,4.22,1012,74,77,"chicken,house & gardenpoultry,quick & easysauté,sherrywinter",8.79,"1270,1",1
-1351,1351,Veal Chops with Eggplant and Pepper Stuffing and Roasted Red Pepper Sauce ,4.11,950,68,65,"beefbell pepper,blendereggplantgourmetroast,",8.34,"1351,1",1
-1385,1385,Herbed Roast Leg of Lamb ,4.12,1232,90,82,"bell pepper,gourmet,herblamb,mushroomonionroast,springtomatovegetable",9.29,"1385,1",1
-1390,1390,Braised Lamb Shanks with Dried Fruits ,4.07,1417,89,80,"braise,fruitgourmetkosher,lambspring",6.27,"1390,1",1
-1561,1561,Grilled Pork Kebabs with Manchamantel Sauce ,4.05,1217,131,43,"banana,broilgourmet,herbmarinate,onion,pineapplepork",7.92,"1561,1",1
-1583,1583,Meat Loaf With Mushroom Gravy ,3.65,679,61,39,"anthony bourdain,beefdinner,ground beefharpercollins,meatloaf,mushroom,veal",8.79,"1583,1",1
-1606,1606,"Our Favorite Lasagna With Sausage, Spinach, and Three Cheeses ",4.05,721,45,43,"bake,kid-friendly,noodle,spinach",8.58,"1606,1",1
-1650,18,Cider-Braised Pheasant with Pearl Onions and Apples ,4.0,1296,120,70,"apple,blender,braise,fallfruit,marinate,onion,orangetarragon,thanksgivingwhite wine,winter",7.16,"18,2",2
-1679,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,2",2
-1789,157,Baked Ham with Mustard and Marjoram ,4.16,1162,125,58,"bake,bon appétitbuffet,christmas,family reunionfortified winehamherb,kentucky derbymustard,orangepork",8.34,"157,2",2
-1835,203,Corned Beef and Cabbage ,4.14,1150,68,92,"brisketcabbagecarrothouse & garden,onion,winter",5.22,"203,2",2
-1963,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,2",2
-2030,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,2",2
-2036,404,Grilled Turkey with Cranberry Gravy ,4.04,1187,126,58,"christmas,cranberry,gourmetgrill,herb,thanksgiving,turkey",4.79,"404,2",2
-2059,427,Hanger Steak with Shallots ,4.05,511,42,32,"beefdinner,sauté,steakvalentines day",9.35,"427,2",2
-2127,495,Rib Eye Steaks with Mixed Mushroom Sauté ,4.0,1430,88,115,"beefbon appétitfathers day,mushroomquick & easysauté,steak,wheat/gluten-free,winter",7.52,"495,2",2
-2277,645,Ferran Adrias Rotisserie Chicken ,4.15,1043,77,67,"apricot,bake,cherry,chickenfruitnutpine nut,poultry,quick & easy,",8.75,"645,2",2
-2330,698,Moo-Shu Pork ,4.09,984,37,43,"cabbage,cucumbereggginger,lunar new yearmarinate,mushroom,pork,sesamestir-fry,wok",9.26,"698,2",2
-2370,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,2",2
-2465,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,2",2
-2594,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,2",2
-2603,971,"Roast Chicken with Orange, Lemon, and Ginger ",4.01,1428,98,102,"appetizerchickenfallgingerkosherlemon,orangepassoverpeanut free,riceroast,rosh hashanah/yom kippur,sautésoy freetree nut freewheat/gluten-free,",9.55,"971,2",2
-2730,1098,Braised Lamb Shanks with Artichokes ,3.97,1196,93,74,"artichokebraise,dillgourmet,lambspring",8.01,"1098,2",2
-2747,1115,Roast Lamb with Pistou ,4.01,1151,83,86,"basilbon appétit,food processorgarlic,lamblow carbparmesan,roast,tomato",8.58,"1115,2",2
-2782,1150,Grilled Salmon with Hoisin Glaze and Plum-Ginger Relish ,4.25,635,49,40,"backyard bbq,dairy freedinnerfish,fruitgingergrill,grill/barbecueno sugar added,onion,peanut free,pescatarianplumsalmonsesametree nut freevinegar,",8.92,"1150,2",2
-2803,1171,Jamaican Jerk Chicken ,4.03,936,58,71,"bakechicken,chill,food processorlime,marinate,spice,",6.95,"1171,2",2
-2891,1259,"Game Hens with Honey, Vinegar and Spice Glaze ",4.03,1439,107,101,"anise,bon appétit,cinnamonhealthy,honeypoultry,roastspicevinegar,",9.55,"1259,2",2
-2948,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,2",2
-2949,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,2",2
-2953,1321,Cumin-Rubbed Rib-Eye Steaks with Two Salsas ,4.1,1162,68,94,"avocado,beefbon appétit,cilantrocucumber,tomato",9.23,"1321,2",2
-2956,1324,"Pepper Jack, Avocado and Black Beans in a Tortilla ",3.72,1001,52,55,"avocado,back to school,beancheesefall,grill/barbecuemonterey jacksandwich,tortillas,vegetable,vegetarian,",6.48,"1324,2",2
-3003,1371,Chicken Piccata with Niçoise Olives ,3.13,1345,142,82,"chickengourmetlemon,olivepoultry,quick & easysautéwhite wine,",9.05,"1371,2",2
-3009,1377,Miriam Reichls Corned Beef Ham ,4.1,675,45,45,"beef,mustardpeach,spring",6.77,"1377,2",2
-3016,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,2",2
-3032,1400,Boursin and Bacon on Cracked Pepper Bread ,3.95,767,34,57,"back to schoolbacon,cheesefall,porksandwich",9.77,"1400,2",2
-3136,1504,Braised Veal Breast with Potato-and-Onion Stuffing ,4.06,1299,90,89,"braise,christmas,christmas evecitrus,dill,easter,gourmet,herb,onionpotato,veal",7.16,"1504,2",2
-3230,1598,"Cod with Coconut, Lime, and Lemongrass Curry Sauce ",4.08,882,45,71,"bok choy,coconut,codcurry,dinnerfish,lemongrasslunch,no sugar addedpeanut free,soy freetree nut freewheat/gluten-free,",8.45,"1598,2",2
-3327,63,Braised and Roasted Pork Shanks With Prosciutto and Porcini Mushrooms ,4.03,1488,130,94,"bon appétitbraisecarrot,garlic,herb,leekmushroomonion,pork,prosciuttoroastsautéwhite wine,",9.25,"63,3",3
-3355,91,Garlic and Herb Spatchcock Grilled Chicken ,4.25,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",7.43,"91,3",3
-3443,179,"Sautéed Pork Chops with Sweet Potato, Apples and Mustard Sauce ",4.16,1495,121,89,"applecondimentdairy freedinner,fallfruit,meat,mustard,peanut freepork,pork chop,root vegetable,sautésoy freesweet potato/yamtree nut free,valentines dayvegetable,wheat/gluten-free,winter",6.01,"179,3",3
-3473,209,Osso Buco ,4.04,618,61,31,"carrot,celery,house & garden,onion,veal,white wine,winter",8.74,"209,3",3
-3626,362,"Lemon- and Garlic-Roasted Chicken with Fava Beans, Radishes, and Pecorino ",4.16,882,62,65,"beancheesechicken,citrus,dairygarlic,herbleafy greenlegume,lemon,poultryradish,roast,vegetable",9.49,"362,3",3
-3702,438,Nachos ,4.0,727,32,46,"appetizerbeancheese,kid-friendly,lunchquick & easysugar conscioustortillas,weelicious",6.34,"438,3",3
-3707,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,3",3
-3715,451,Four-Cheese Manicotti ,3.92,716,37,42,"bakecheese,dinner,mozzarella,parmesan,pasta,ricottatomato",8.52,"451,3",3
-3852,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,3",3
-3961,697,"Baeckeoffe / Laundry Day Stew of Beef, Pork, and Lamb ",3.99,1120,66,73,"christmas,christmas evemandolinesoup/stewwinter",4.07,"697,3",3
-3985,721,Chinese Pineapple Chicken ,4.02,1099,75,73,"celerychicken,dinner,fall,house & garden,onion,pineapple,stir-fry,",8.63,"721,3",3
-4045,781,Veal Saltimbocca ,4.15,1169,99,57,"beefbon appétit,missouriprosciuttosagesauté,st. louis",8.13,"781,3",3
-4080,816,Lamb and Eggplant Casserole (Moussaka) ,3.96,1223,43,94,"bake,casserole/gratindinner,eggplantfall,ground lambpeanut free,soy free,tomato,tree nut free,",8.38,"816,3",3
-4104,840,Mustard- and Rosemary-Roasted Game Hens ,4.04,1413,99,108,"bon appétitdinnergamelow carb,mustard,poultry,roastrosemary,",8.56,"840,3",3
-4119,855,Coke-Braised Pork Carnitas ,4.04,1388,54,123,bon appétitbraisecitruspork,9.49,"855,3",3
-4165,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,3",3
-4196,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,3",3
-4314,1050,Corned Beef with Horseradish Mustard Sauce ,3.66,947,61,76,"brisket,gourmethorseradishmustard,",7.59,"1050,3",3
-4326,1062,Estouffade de Noël ,3.9,817,66,55,"beefbraisehouse & garden,mushroom,porkvegetablewinter",6.66,"1062,3",3
-4333,1069,Cumin-Crusted Lamb with Apricots ,3.58,728,60,46,"apricotlamblow fat,roastspice,winter",6.38,"1069,3",3
-4410,1146,Trout Grenobloise ,4.08,760,71,40,"caperslemon,pan-fry,quick & easy,trout",4.96,"1146,3",3
-4478,1214,Turkey Tonnato with Potatoes and Green Beans ,3.95,1497,147,82,"gourmetgreen beanpotato,poultrysummerturkey",6.82,"1214,3",3
-4583,1319,Grill-Smoked Salmon ,4.17,649,64,42,"backyard bbq,fishgrill/barbecue,picnicsalmon,summer",7.15,"1319,3",3
-4772,1508,"Herbed Lamb, Tomato, and Zucchini Kebabs ",4.2,1069,45,94,"gourmet,grill/barbecue,healthy,lamb,lemon,marinate,rosemary,summerthymetomato,zucchini,",8.97,"1508,3",3
-4816,1552,Nicaraguan-Style Steak ,3.83,1168,81,92,"beefbon appétitcitrusmarinate,wheat/gluten-free,",8.27,"1552,3",3
-4830,1566,Spiced Herb Marinade for Fish ,4.09,594,42,45,"bakecilantrogarliclemon,marinate,parsleysalmon,",6.94,"1566,3",3
-4848,1584,Chicken Breasts with Rock-Shrimp Sauce ,4.01,1240,131,72,"chickenchivegourmetquick & easyricesauté,shrimp,white wine,",7.61,"1584,3",3
-4867,1603,Grilled Poussins with Lemon Herb Butter ,3.71,1465,108,111,"chickengourmet,grill/barbecueherb,lemonrosemary,thyme",7.68,"1603,3",3
-4883,1619,San Francisco Crab Meatball Chowder ,4.07,1001,72,60,"crabdairyeggfryshellfish,summer",7.89,"1619,3",3
-4894,1630,Chinese Barbecued Spareribs ,3.87,998,55,80,"appetizerbake,dairy free,fall,honeyhouse & gardenmarinatepeanut freeporksherrysoy sauce,tree nut free,",8.51,"1630,3",3
-4934,38,"Braised Veal Breast with Herbs, Pernod, and Tomatoes ",4.25,1454,103,96,"bon appétitbraisecitrusfish,garlic,herbolive,onionpernodsauté,tomatoveal,white wine,",9.14,"38,4",4
-5063,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,4",4
-5124,228,Lebanese Lamb and Bean Stew ,4.04,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",9.64,"228,4",4
-5196,300,Grilled Lemon-Herb Poussins ,4.19,937,68,71,"gourmet,grill/barbecue,lemonrosemary,summerthyme",8.71,"300,4",4
-5222,326,Korean-Style Grain Bowls With Spicy Marinated Steak ,4.06,1251,67,50,"asparagus,cabbagechile pepper,eggflaming hot summergrains,steaksugar snap pea",7.02,"326,4",4
-5226,330,Herbed Lamb with Mint Shallot Sauce and Rutabaga Purée ,4.04,942,75,66,"bon appétiteasterherblamb,mintroastshallotst. patricks day,",9.43,"330,4",4
-5242,346,Southern Fried Chicken with Country Gravy ,3.99,1429,68,125,"deep-fry,dinnerfamily reunionno sugar added,party,peanut free,picnicsoy freetree nut free,",6.96,"346,4",4
-5438,542,"Hummus-Crusted Alaskan Wild King Salmon Over a Bed of French Beans, Red Onion, and Cucumber Salad with Lemon Oil ",2.95,1496,63,123,"advance prep required,beanbroil,chickpea,cucumber,dairy freedinnerfish,lemon,mothers day,pescatariansalmon,",5.02,"542,4",4
-5501,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,4",4
-5529,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,4",4
-5542,646,Veal Scallops Oporto ,3.8,1373,133,84,"beef,dairy,fortified winehouse & gardenmilk/creamport,sauté,veal,wine,winter",2.8,"646,4",4
-5585,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,4",4
-5615,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,4",4
-5769,873,Croque Monsieur ,3.96,819,55,48,"back to school,cheesefall,grill/barbecuehamporksandwichswiss cheese",8.78,"873,4",4
-5804,908,"Beef, Mushroom, and Broccoli Stir-Fry ",3.95,650,38,40,"beef,broccoligingermushroom,soy sauce,stir-frywhite wine,",8.53,"908,4",4
-5811,915,Provençal Chicken Stew ,4.0,775,48,49,"back to schoololive,potlucksauté,slow cookersoup/stewstewtomatowinter",7.8,"915,4",4
-5821,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,4",4
-5909,1013,Tuscan Chicken with Warm Bean Salad ,4.06,1448,107,88,"bakebean,bon appétit,broilchickenhealthylemon,marinate,rosemary,winter",8.56,"1013,4",4
-5945,1049,California Vegetable and Chickpea Chili ,4.07,931,35,40,"beanfalllow calsuper bowl,vegetable,vegetarian,",6.6,"1049,4",4
-5953,1057,Jenga Ribs ,4.12,1377,76,114,"bake,bon appétitpork rib,spicesuper bowl,",8.87,"1057,4",4
-5993,1097,Vietnamese Pho Rice Noodle Soup with Beef ,4.12,1084,88,38,"anise,beef,cilantro,clovedairy freedinner,gingerhot pepperlimenoodleonion,peanut freesoup/stew,soy freestir-frytree nut freewheat/gluten-free,",9.48,"1097,4",4
-6166,1270,Chicken Sauté with Sherry ,4.22,1012,74,77,"chicken,house & gardenpoultry,quick & easysauté,sherrywinter",8.79,"1270,4",4
-6202,1306,Grilled Pork Ribs with Tamarind Recado ,4.01,660,44,51,"backyard bbqfood processorgarlicgrill,grill/barbecue,hot pepper,marinateoreganopork ribsummer,tamarind,",9.76,"1306,4",4
-6234,1338,Garlic and Herb Spatchcock Grilled Chicken ,4.11,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",4.16,"1338,4",4
-6281,1385,Herbed Roast Leg of Lamb ,4.12,1232,90,82,"bell pepper,gourmet,herblamb,mushroomonionroast,springtomatovegetable",9.29,"1385,4",4
-6381,1485,101 Whaler Fish Sandwich ,4.05,819,35,42,"cheesecookiecornmealdairy,fishkid-friendly,lettucemayonnaise,sandwich,sauté,tomato",7.6,"1485,4",4
-6457,1561,Grilled Pork Kebabs with Manchamantel Sauce ,4.05,1217,131,43,"banana,broilgourmet,herbmarinate,onion,pineapplepork",7.92,"1561,4",4
-6479,1583,Meat Loaf With Mushroom Gravy ,3.65,679,61,39,"anthony bourdain,beefdinner,ground beefharpercollins,meatloaf,mushroom,veal",8.79,"1583,4",4
-6502,1606,"Our Favorite Lasagna With Sausage, Spinach, and Three Cheeses ",4.05,721,45,43,"bake,kid-friendly,noodle,spinach",8.58,"1606,4",4
-6523,1627,Lemon and Rosemary T-Bone Steaks ,3.93,1168,74,95,"beefbon appétitgrill/barbecue,lemon,low carbmarinate,rosemary,steaksummer,wheat/gluten-free,",9.37,"1627,4",4
-6546,18,Cider-Braised Pheasant with Pearl Onions and Apples ,4.0,1296,120,70,"apple,blender,braise,fallfruit,marinate,onion,orangetarragon,thanksgivingwhite wine,winter",7.16,"18,5",5
-6575,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,5",5
-6685,157,Baked Ham with Mustard and Marjoram ,4.16,1162,125,58,"bake,bon appétitbuffet,christmas,family reunionfortified winehamherb,kentucky derbymustard,orangepork",8.34,"157,5",5
-6711,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,5",5
-6717,189,Croque Madame Casserole With Ham and Gruyère ,4.11,700,39,42,"breakfastbrunch,casserole/gratin,cheeseegg,hamnew years daypeanut free,soy freetree nut free,",8.89,"189,5",5
-6731,203,Corned Beef and Cabbage ,4.14,1150,68,92,"brisketcabbagecarrothouse & garden,onion,winter",5.22,"203,5",5
-6859,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,5",5
-7063,535,Pretty Easter Pasta Pie (Crostata di tagliolini ) ,3.81,899,42,47,"easter,mozzarellaprosciutto,",9.28,"535,5",5
-7173,645,Ferran Adrias Rotisserie Chicken ,4.15,1043,77,67,"apricot,bake,cherry,chickenfruitnutpine nut,poultry,quick & easy,",8.75,"645,5",5
-7196,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,5",5
-7208,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,5",5
-7266,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,5",5
-7328,800,Fish Soup with Aïoli Croutons ,3.95,1093,133,47,"bon appétitcarrot,fennel,fish,garlicleekmayonnaise,soup/stewtomato,white wine,winter",8.45,"800,5",5
-7361,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,5",5
-7490,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,5",5
-7497,969,Garlic-and-Chili-Rubbed Steaks ,4.14,744,59,52,"backyard bbq,beef,garlicgourmetgrill,grill/barbecuemarinate,spice,steaksummer",9.42,"969,5",5
-7499,971,"Roast Chicken with Orange, Lemon, and Ginger ",4.01,1428,98,102,"appetizerchickenfallgingerkosherlemon,orangepassoverpeanut free,riceroast,rosh hashanah/yom kippur,sautésoy freetree nut freewheat/gluten-free,",9.55,"971,5",5
-7592,1064,Thai Spareribs ,4.08,1453,76,118,"advance prep requiredbeefbon appétitbraisechilldinnermarinate,partysuper bowl,tailgating",8.44,"1064,5",5
-7626,1098,Braised Lamb Shanks with Artichokes ,3.97,1196,93,74,"artichokebraise,dillgourmet,lambspring",8.01,"1098,5",5
-7714,1186,"Artichokes, Capers, Olives, Lemon Zest, and Italian Tuna on Pasta Shells ",4.04,884,44,38,"artichoke,capers,dinner,lunch,olive,pastaquick & easy,summer,tuna,",9.58,"1186,5",5
-7729,1201,Chicken Breasts with Poblano Chile Strips and Cream ,4.02,1381,145,79,"chickendairygourmet,pepperpoultry,quick & easyroastsauté,summer",5.09,"1201,5",5
-7787,1259,"Game Hens with Honey, Vinegar and Spice Glaze ",4.03,1439,107,101,"anise,bon appétit,cinnamonhealthy,honeypoultry,roastspicevinegar,",9.55,"1259,5",5
-7844,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,5",5
-7845,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,5",5
-7852,1324,"Pepper Jack, Avocado and Black Beans in a Tortilla ",3.72,1001,52,55,"avocado,back to school,beancheesefall,grill/barbecuemonterey jacksandwich,tortillas,vegetable,vegetarian,",6.48,"1324,5",5
-7901,1373,Barba Yiannis Grilled Lamb ,4.12,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",7.94,"1373,5",5
-7912,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,5",5
-7928,1400,Boursin and Bacon on Cracked Pepper Bread ,3.95,767,34,57,"back to schoolbacon,cheesefall,porksandwich",9.77,"1400,5",5
-8024,1496,Microwave Chicken Piccata ,3.51,1307,145,75,"asparaguscaperschicken,dinnerkid-friendly,lemon,microwaveno sugar added,parsley,peanut free,quick & easy,quick and healthy,soy freesugar conscioustree nut freewheat/gluten-free,",4.16,"1496,5",5
-8032,1504,Braised Veal Breast with Potato-and-Onion Stuffing ,4.06,1299,90,89,"braise,christmas,christmas evecitrus,dill,easter,gourmet,herb,onionpotato,veal",7.16,"1504,5",5
-8234,74,Barba Yiannis Grilled Lamb ,4.33,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",6.31,"74,6",6
-8372,212,Simple Smoked Beef Short Ribs ,3.87,1218,46,110,"backyard bbq,beef,beef rib,dairy freedinner,fourth of july,grill/barbecue,kosher,meat,mustard,peanut free,smokersugar conscioustree nut free,",7.64,"212,6",6
-8529,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,6",6
-8558,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,6",6
-8603,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,6",6
-8611,451,Four-Cheese Manicotti ,3.92,716,37,42,"bakecheese,dinner,mozzarella,parmesan,pasta,ricottatomato",8.52,"451,6",6
-8748,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,6",6
-8858,698,Moo-Shu Pork ,4.09,984,37,43,"cabbage,cucumbereggginger,lunar new yearmarinate,mushroom,pork,sesamestir-fry,wok",9.26,"698,6",6
-8881,721,Chinese Pineapple Chicken ,4.02,1099,75,73,"celerychicken,dinner,fall,house & garden,onion,pineapple,stir-fry,",8.63,"721,6",6
-8926,766,"Grilled Cubano Turkey, Pork and Swiss with Mustard and Pickles ",3.72,912,60,57,"back to school,cheese,grill/barbecue,lunchmustard,peanut freeporkpoultrysandwich,soy freesugar conscious,swiss cheese,tree nut free,turkey",7.53,"766,6",6
-8941,781,Veal Saltimbocca ,4.15,1169,99,57,"beefbon appétit,missouriprosciuttosagesauté,st. louis",8.13,"781,6",6
-8948,788,Herb-Roasted Turkey with Apple Cider Gravy ,4.09,1182,140,55,"applebon appétitbrandy,brinecalvadosfall,fruit juiceherbmilk/cream,roastthanksgiving,turkey",5.78,"788,6",6
-8985,825,Sheet-Pan Crispy Fish Tacos With Chili-Roasted Corn ,4.15,1209,97,59,"dairy freedinnerfish,healthy,kid-friendly,pescatarian,seedspringsummer,tortillas,",2.45,"825,6",6
-9000,840,Mustard- and Rosemary-Roasted Game Hens ,4.04,1413,99,108,"bon appétitdinnergamelow carb,mustard,poultry,roastrosemary,",8.56,"840,6",6
-9061,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,6",6
-9063,903,Grilled Salmon in Corn Husks ,3.99,1210,43,99,"backyard bbq,cornfish,garlicgrill,grill/barbecueherb,hot peppersalmon,summer",4.32,"903,6",6
-9081,921,Smoked Cheddar-Jalapeño Ranch Meat Loaf ,4.01,856,67,61,"bacon,bake,beef,beef tenderloin,cheddar,cheesefalljalapeño,pork",5.49,"921,6",6
-9092,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,6",6
-9306,1146,Trout Grenobloise ,4.08,760,71,40,"caperslemon,pan-fry,quick & easy,trout",4.96,"1146,6",6
-9331,1171,Jamaican Jerk Chicken ,4.03,936,58,71,"bakechicken,chill,food processorlime,marinate,spice,",6.95,"1171,6",6
-9376,1216,Fish Chowder with Herbed Oyster Crackers ,4.06,1019,59,56,"bacon,bake,fish,gourmetpotatoquick & easy,soup/stew",7.91,"1216,6",6
-9412,1252,Lebanese Lamb and Bean Stew ,4.07,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",6.36,"1252,6",6
-9481,1321,Cumin-Rubbed Rib-Eye Steaks with Two Salsas ,4.1,1162,68,94,"avocado,beefbon appétit,cilantrocucumber,tomato",9.23,"1321,6",6
-9515,1355,"Hot Slow-Roasted Pork, Onion, and Mozzarella Sandwiches ",3.98,1465,92,101,"bell pepperbon appétit,mozzarellaonion,pork,roast,sandwich,sautéspicesuper bowl,",8.5,"1355,6",6
-9531,1371,Chicken Piccata with Niçoise Olives ,3.13,1345,142,82,"chickengourmetlemon,olivepoultry,quick & easysautéwhite wine,",9.05,"1371,6",6
-9537,1377,Miriam Reichls Corned Beef Ham ,4.1,675,45,45,"beef,mustardpeach,spring",6.77,"1377,6",6
-9550,1390,Braised Lamb Shanks with Dried Fruits ,4.07,1417,89,80,"braise,fruitgourmetkosher,lambspring",6.27,"1390,6",6
-9763,1603,Grilled Poussins with Lemon Herb Butter ,3.71,1465,108,111,"chickengourmet,grill/barbecueherb,lemonrosemary,thyme",7.68,"1603,6",6
-9779,1619,San Francisco Crab Meatball Chowder ,4.07,1001,72,60,"crabdairyeggfryshellfish,summer",7.89,"1619,6",6
-9790,1630,Chinese Barbecued Spareribs ,3.87,998,55,80,"appetizerbake,dairy free,fall,honeyhouse & gardenmarinatepeanut freeporksherrysoy sauce,tree nut free,",8.51,"1630,6",6
-9830,38,"Braised Veal Breast with Herbs, Pernod, and Tomatoes ",4.25,1454,103,96,"bon appétitbraisecitrusfish,garlic,herbolive,onionpernodsauté,tomatoveal,white wine,",9.14,"38,7",7
-9883,91,Garlic and Herb Spatchcock Grilled Chicken ,4.25,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",7.43,"91,7",7
-9959,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,7",7
-10020,228,Lebanese Lamb and Bean Stew ,4.04,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",9.64,"228,7",7
-10118,326,Korean-Style Grain Bowls With Spicy Marinated Steak ,4.06,1251,67,50,"asparagus,cabbagechile pepper,eggflaming hot summergrains,steaksugar snap pea",7.02,"326,7",7
-10144,352,Wild Turkey Glazed Ribs ,4.0,1327,73,107,"bakebourbongarlic,honey,kentucky derby,marinate,mustard,pork rib",2.08,"352,7",7
-10154,362,"Lemon- and Garlic-Roasted Chicken with Fava Beans, Radishes, and Pecorino ",4.16,882,62,65,"beancheesechicken,citrus,dairygarlic,herbleafy greenlegume,lemon,poultryradish,roast,vegetable",9.49,"362,7",7
-10230,438,Nachos ,4.0,727,32,46,"appetizerbeancheese,kid-friendly,lunchquick & easysugar conscioustortillas,weelicious",6.34,"438,7",7
-10334,542,"Hummus-Crusted Alaskan Wild King Salmon Over a Bed of French Beans, Red Onion, and Cucumber Salad with Lemon Oil ",2.95,1496,63,123,"advance prep required,beanbroil,chickpea,cucumber,dairy freedinnerfish,lemon,mothers day,pescatariansalmon,",5.02,"542,7",7
-10397,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,7",7
-10425,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,7",7
-10481,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,7",7
-10497,705,Baked Ham with Mustard-Red Currant Glaze and Rhubarb Chutney ,4.03,995,111,51,"bake,bon appétiteasterhamjam or jelly,mustard,spring,watercress,",5.92,"705,7",7
-10509,717,Peas with Baked Ricotta and Bread Crumbs ,3.99,1288,68,76,"bakecheesedairy,dinner,kosher,legumepeapeanut free,pescatarian,ricotta,soy free,spring,tree nut free,vegetable,vegetarian,",5.64,"717,7",7
-10511,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,7",7
-10647,855,Coke-Braised Pork Carnitas ,4.04,1388,54,123,bon appétitbraisecitruspork,9.49,"855,7",7
-10665,873,Croque Monsieur ,3.96,819,55,48,"back to school,cheesefall,grill/barbecuehamporksandwichswiss cheese",8.78,"873,7",7
-10700,908,"Beef, Mushroom, and Broccoli Stir-Fry ",3.95,650,38,40,"beef,broccoligingermushroom,soy sauce,stir-frywhite wine,",8.53,"908,7",7
-10841,1049,California Vegetable and Chickpea Chili ,4.07,931,35,40,"beanfalllow calsuper bowl,vegetable,vegetarian,",6.6,"1049,7",7
-10889,1097,Vietnamese Pho Rice Noodle Soup with Beef ,4.12,1084,88,38,"anise,beef,cilantro,clovedairy freedinner,gingerhot pepperlimenoodleonion,peanut freesoup/stew,soy freestir-frytree nut freewheat/gluten-free,",9.48,"1097,7",7
-11111,1319,Grill-Smoked Salmon ,4.17,649,64,42,"backyard bbq,fishgrill/barbecue,picnicsalmon,summer",7.15,"1319,7",7
-11130,1338,Garlic and Herb Spatchcock Grilled Chicken ,4.11,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",4.16,"1338,7",7
-11177,1385,Herbed Roast Leg of Lamb ,4.12,1232,90,82,"bell pepper,gourmet,herblamb,mushroomonionroast,springtomatovegetable",9.29,"1385,7",7
-11277,1485,101 Whaler Fish Sandwich ,4.05,819,35,42,"cheesecookiecornmealdairy,fishkid-friendly,lettucemayonnaise,sandwich,sauté,tomato",7.6,"1485,7",7
-11344,1552,Nicaraguan-Style Steak ,3.83,1168,81,92,"beefbon appétitcitrusmarinate,wheat/gluten-free,",8.27,"1552,7",7
-11353,1561,Grilled Pork Kebabs with Manchamantel Sauce ,4.05,1217,131,43,"banana,broilgourmet,herbmarinate,onion,pineapplepork",7.92,"1561,7",7
-11375,1583,Meat Loaf With Mushroom Gravy ,3.65,679,61,39,"anthony bourdain,beefdinner,ground beefharpercollins,meatloaf,mushroom,veal",8.79,"1583,7",7
-11376,1584,Chicken Breasts with Rock-Shrimp Sauce ,4.01,1240,131,72,"chickenchivegourmetquick & easyricesauté,shrimp,white wine,",7.61,"1584,7",7
-11390,1598,"Cod with Coconut, Lime, and Lemongrass Curry Sauce ",4.08,882,45,71,"bok choy,coconut,codcurry,dinnerfish,lemongrasslunch,no sugar addedpeanut free,soy freetree nut freewheat/gluten-free,",8.45,"1598,7",7
-11419,1627,Lemon and Rosemary T-Bone Steaks ,3.93,1168,74,95,"beefbon appétitgrill/barbecue,lemon,low carbmarinate,rosemary,steaksummer,wheat/gluten-free,",9.37,"1627,7",7
-11471,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,8",8
-11487,63,Braised and Roasted Pork Shanks With Prosciutto and Porcini Mushrooms ,4.03,1488,130,94,"bon appétitbraisecarrot,garlic,herb,leekmushroomonion,pork,prosciuttoroastsautéwhite wine,",9.25,"63,8",8
-11581,157,Baked Ham with Mustard and Marjoram ,4.16,1162,125,58,"bake,bon appétitbuffet,christmas,family reunionfortified winehamherb,kentucky derbymustard,orangepork",8.34,"157,8",8
-11736,312,Pasta With 15-Minute Meat Sauce ,4.21,885,36,38,"ground beef,kid-friendly,pasta,pork,quick & easy,tomato",8.2,"312,8",8
-11755,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,8",8
-11770,346,Southern Fried Chicken with Country Gravy ,3.99,1429,68,125,"deep-fry,dinnerfamily reunionno sugar added,party,peanut free,picnicsoy freetree nut free,",6.96,"346,8",8
-11828,404,Grilled Turkey with Cranberry Gravy ,4.04,1187,126,58,"christmas,cranberry,gourmetgrill,herb,thanksgiving,turkey",4.79,"404,8",8
-11868,444,Brisket With Pomegranate-Walnut Sauce and Pistachio Gremolata ,4.13,1277,74,98,"beefbrisket,garlickosher,kosher for passover,mint,passover,pistachio,pomegranate juice,roast,spring,wheat/gluten-free,",2.0,"444,8",8
-12053,629,Barbecue-Braised Oxtail with Red Chili Beans ,4.08,1443,88,97,"bean,beefbraise,fallgourmetonion,tomato",5.16,"629,8",8
-12069,645,Ferran Adrias Rotisserie Chicken ,4.15,1043,77,67,"apricot,bake,cherry,chickenfruitnutpine nut,poultry,quick & easy,",8.75,"645,8",8
-12092,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,8",8
-12104,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,8",8
-12146,722,"Potato, Leek, and Pea Pot Pie With Spinach-Arugula Salad ",4.16,843,44,48,"30 days of groceriesarugulabakeleek,peapot pie,potato,radishsausagespinach",4.71,"722,8",8
-12162,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,8",8
-12257,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,8",8
-12349,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,8",8
-12386,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,8",8
-12388,964,Grilled Steak with Arugula and Shaved Parmesan ,4.21,860,75,59,"arugula,bon appétitgrill/barbecuelow carbparmesansteak",9.02,"964,8",8
-12395,971,"Roast Chicken with Orange, Lemon, and Ginger ",4.01,1428,98,102,"appetizerchickenfallgingerkosherlemon,orangepassoverpeanut free,riceroast,rosh hashanah/yom kippur,sautésoy freetree nut freewheat/gluten-free,",9.55,"971,8",8
-12522,1098,Braised Lamb Shanks with Artichokes ,3.97,1196,93,74,"artichokebraise,dillgourmet,lambspring",8.01,"1098,8",8
-12539,1115,Roast Lamb with Pistou ,4.01,1151,83,86,"basilbon appétit,food processorgarlic,lamblow carbparmesan,roast,tomato",8.58,"1115,8",8
-12610,1186,"Artichokes, Capers, Olives, Lemon Zest, and Italian Tuna on Pasta Shells ",4.04,884,44,38,"artichoke,capers,dinner,lunch,olive,pastaquick & easy,summer,tuna,",9.58,"1186,8",8
-12638,1214,Turkey Tonnato with Potatoes and Green Beans ,3.95,1497,147,82,"gourmetgreen beanpotato,poultrysummerturkey",6.82,"1214,8",8
-12683,1259,"Game Hens with Honey, Vinegar and Spice Glaze ",4.03,1439,107,101,"anise,bon appétit,cinnamonhealthy,honeypoultry,roastspicevinegar,",9.55,"1259,8",8
-12748,1324,"Pepper Jack, Avocado and Black Beans in a Tortilla ",3.72,1001,52,55,"avocado,back to school,beancheesefall,grill/barbecuemonterey jacksandwich,tortillas,vegetable,vegetarian,",6.48,"1324,8",8
-12797,1373,Barba Yiannis Grilled Lamb ,4.12,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",7.94,"1373,8",8
-12824,1400,Boursin and Bacon on Cracked Pepper Bread ,3.95,767,34,57,"back to schoolbacon,cheesefall,porksandwich",9.77,"1400,8",8
-12905,1481,Soft-Shell Crabs with Wilted Spinach and Warm Tomato-Basil Vinaigrette ,4.01,691,57,41,"crabhigh fiber,leafy greenmarinate,sauté,seafood,shellfish,spinachspringsummer",3.51,"1481,8",8
-12920,1496,Microwave Chicken Piccata ,3.51,1307,145,75,"asparaguscaperschicken,dinnerkid-friendly,lemon,microwaveno sugar added,parsley,peanut free,quick & easy,quick and healthy,soy freesugar conscioustree nut freewheat/gluten-free,",4.16,"1496,8",8
-12928,1504,Braised Veal Breast with Potato-and-Onion Stuffing ,4.06,1299,90,89,"braise,christmas,christmas evecitrus,dill,easter,gourmet,herb,onionpotato,veal",7.16,"1504,8",8
-13074,18,Cider-Braised Pheasant with Pearl Onions and Apples ,4.0,1296,120,70,"apple,blender,braise,fallfruit,marinate,onion,orangetarragon,thanksgivingwhite wine,winter",7.16,"18,9",9
-13239,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,9",9
-13245,189,Croque Madame Casserole With Ham and Gruyère ,4.11,700,39,42,"breakfastbrunch,casserole/gratin,cheeseegg,hamnew years daypeanut free,soy freetree nut free,",8.89,"189,9",9
-13386,330,Herbed Lamb with Mint Shallot Sauce and Rutabaga Purée ,4.04,942,75,66,"bon appétiteasterherblamb,mintroastshallotst. patricks day,",9.43,"330,9",9
-13425,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,9",9
-13454,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,9",9
-13483,427,Hanger Steak with Shallots ,4.05,511,42,32,"beefdinner,sauté,steakvalentines day",9.35,"427,9",9
-13499,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,9",9
-13507,451,Four-Cheese Manicotti ,3.92,716,37,42,"bakecheese,dinner,mozzarella,parmesan,pasta,ricottatomato",8.52,"451,9",9
-13551,495,Rib Eye Steaks with Mixed Mushroom Sauté ,4.0,1430,88,115,"beefbon appétitfathers day,mushroomquick & easysauté,steak,wheat/gluten-free,winter",7.52,"495,9",9
-13591,535,Pretty Easter Pasta Pie (Crostata di tagliolini ) ,3.81,899,42,47,"easter,mozzarellaprosciutto,",9.28,"535,9",9
-13644,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,9",9
-13702,646,Veal Scallops Oporto ,3.8,1373,133,84,"beef,dairy,fortified winehouse & gardenmilk/creamport,sauté,veal,wine,winter",2.8,"646,9",9
-13777,721,Chinese Pineapple Chicken ,4.02,1099,75,73,"celerychicken,dinner,fall,house & garden,onion,pineapple,stir-fry,",8.63,"721,9",9
-13883,827,Grilled Chicken with Shredded Mesclun Salad ,4.12,1223,84,91,"basil,chickengourmet,grill/barbecueleafy green,limesaladshallot,summertomato",9.1,"827,9",9
-13957,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,9",9
-13977,921,Smoked Cheddar-Jalapeño Ranch Meat Loaf ,4.01,856,67,61,"bacon,bake,beef,beef tenderloin,cheddar,cheesefalljalapeño,pork",5.49,"921,9",9
-13988,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,9",9
-14134,1078,Moroccan Roasted Chicken ,3.46,1346,82,81,"apricot,chickencinnamon,cumindairy freedinnerkid-friendly,kosher,peanut free,pistachiopotatoraisinsoy freewheat/gluten-free,",8.43,"1078,9",9
-14308,1252,Lebanese Lamb and Bean Stew ,4.07,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",6.36,"1252,9",9
-14362,1306,Grilled Pork Ribs with Tamarind Recado ,4.01,660,44,51,"backyard bbqfood processorgarlicgrill,grill/barbecue,hot pepper,marinateoreganopork ribsummer,tamarind,",9.76,"1306,9",9
-14372,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,9",9
-14373,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,9",9
-14377,1321,Cumin-Rubbed Rib-Eye Steaks with Two Salsas ,4.1,1162,68,94,"avocado,beefbon appétit,cilantrocucumber,tomato",9.23,"1321,9",9
-14411,1355,"Hot Slow-Roasted Pork, Onion, and Mozzarella Sandwiches ",3.98,1465,92,101,"bell pepperbon appétit,mozzarellaonion,pork,roast,sandwich,sautéspicesuper bowl,",8.5,"1355,9",9
-14440,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,9",9
-14446,1390,Braised Lamb Shanks with Dried Fruits ,4.07,1417,89,80,"braise,fruitgourmetkosher,lambspring",6.27,"1390,9",9
-14622,1566,Spiced Herb Marinade for Fish ,4.09,594,42,45,"bakecilantrogarliclemon,marinate,parsleysalmon,",6.94,"1566,9",9
-14659,1603,Grilled Poussins with Lemon Herb Butter ,3.71,1465,108,111,"chickengourmet,grill/barbecueherb,lemonrosemary,thyme",7.68,"1603,9",9
-14662,1606,"Our Favorite Lasagna With Sausage, Spinach, and Three Cheeses ",4.05,721,45,43,"bake,kid-friendly,noodle,spinach",8.58,"1606,9",9
-14726,38,"Braised Veal Breast with Herbs, Pernod, and Tomatoes ",4.25,1454,103,96,"bon appétitbraisecitrusfish,garlic,herbolive,onionpernodsauté,tomatoveal,white wine,",9.14,"38,10",10
-14779,91,Garlic and Herb Spatchcock Grilled Chicken ,4.25,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",7.43,"91,10",10
-14855,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,10",10
-14891,203,Corned Beef and Cabbage ,4.14,1150,68,92,"brisketcabbagecarrothouse & garden,onion,winter",5.22,"203,10",10
-14897,209,Osso Buco ,4.04,618,61,31,"carrot,celery,house & garden,onion,veal,white wine,winter",8.74,"209,10",10
-14916,228,Lebanese Lamb and Bean Stew ,4.04,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",9.64,"228,10",10
-15014,326,Korean-Style Grain Bowls With Spicy Marinated Steak ,4.06,1251,67,50,"asparagus,cabbagechile pepper,eggflaming hot summergrains,steaksugar snap pea",7.02,"326,10",10
-15050,362,"Lemon- and Garlic-Roasted Chicken with Fava Beans, Radishes, and Pecorino ",4.16,882,62,65,"beancheesechicken,citrus,dairygarlic,herbleafy greenlegume,lemon,poultryradish,roast,vegetable",9.49,"362,10",10
-15321,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,10",10
-15377,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,10",10
-15385,697,"Baeckeoffe / Laundry Day Stew of Beef, Pork, and Lamb ",3.99,1120,66,73,"christmas,christmas evemandolinesoup/stewwinter",4.07,"697,10",10
-15386,698,Moo-Shu Pork ,4.09,984,37,43,"cabbage,cucumbereggginger,lunar new yearmarinate,mushroom,pork,sesamestir-fry,wok",9.26,"698,10",10
-15407,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,10",10
-15469,781,Veal Saltimbocca ,4.15,1169,99,57,"beefbon appétit,missouriprosciuttosagesauté,st. louis",8.13,"781,10",10
-15504,816,Lamb and Eggplant Casserole (Moussaka) ,3.96,1223,43,94,"bake,casserole/gratindinner,eggplantfall,ground lambpeanut free,soy free,tomato,tree nut free,",8.38,"816,10",10
-15528,840,Mustard- and Rosemary-Roasted Game Hens ,4.04,1413,99,108,"bon appétitdinnergamelow carb,mustard,poultry,roastrosemary,",8.56,"840,10",10
-15561,873,Croque Monsieur ,3.96,819,55,48,"back to school,cheesefall,grill/barbecuehamporksandwichswiss cheese",8.78,"873,10",10
-15603,915,Provençal Chicken Stew ,4.0,775,48,49,"back to schoololive,potlucksauté,slow cookersoup/stewstewtomatowinter",7.8,"915,10",10
-15745,1057,Jenga Ribs ,4.12,1377,76,114,"bake,bon appétitpork rib,spicesuper bowl,",8.87,"1057,10",10
-15834,1146,Trout Grenobloise ,4.08,760,71,40,"caperslemon,pan-fry,quick & easy,trout",4.96,"1146,10",10
-15836,1148,Simple Leek and Ricotta Tarts ,3.98,1202,31,87,"bakebreakfastbrunchcheesedairy,dinner,kosherleeklunch,peanut free,pescatarianquick & easy,ricotta,soy free,spring,sugar conscious,summer,tree nut free,vegetable,vegetarian,",9.59,"1148,10",10
-16007,1319,Grill-Smoked Salmon ,4.17,649,64,42,"backyard bbq,fishgrill/barbecue,picnicsalmon,summer",7.15,"1319,10",10
-16026,1338,Garlic and Herb Spatchcock Grilled Chicken ,4.11,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",4.16,"1338,10",10
-16039,1351,Veal Chops with Eggplant and Pepper Stuffing and Roasted Red Pepper Sauce ,4.11,950,68,65,"beefbell pepper,blendereggplantgourmetroast,",8.34,"1351,10",10
-16059,1371,Chicken Piccata with Niçoise Olives ,3.13,1345,142,82,"chickengourmetlemon,olivepoultry,quick & easysautéwhite wine,",9.05,"1371,10",10
-16201,1513,Braised Lamb Shanks with Garlic and Rosemary ,3.98,889,79,56,"braisedairy freedinner,garlic,herblamblamb shank,paleo,peanut free,rosemarysoy freesugar conscioustree nut freewheat/gluten-free,winter",7.47,"1513,10",10
-16240,1552,Nicaraguan-Style Steak ,3.83,1168,81,92,"beefbon appétitcitrusmarinate,wheat/gluten-free,",8.27,"1552,10",10
-16249,1561,Grilled Pork Kebabs with Manchamantel Sauce ,4.05,1217,131,43,"banana,broilgourmet,herbmarinate,onion,pineapplepork",7.92,"1561,10",10
-16271,1583,Meat Loaf With Mushroom Gravy ,3.65,679,61,39,"anthony bourdain,beefdinner,ground beefharpercollins,meatloaf,mushroom,veal",8.79,"1583,10",10
-16318,1630,Chinese Barbecued Spareribs ,3.87,998,55,80,"appetizerbake,dairy free,fall,honeyhouse & gardenmarinatepeanut freeporksherrysoy sauce,tree nut free,",8.51,"1630,10",10
-16367,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,11",11
-16383,63,Braised and Roasted Pork Shanks With Prosciutto and Porcini Mushrooms ,4.03,1488,130,94,"bon appétitbraisecarrot,garlic,herb,leekmushroomonion,pork,prosciuttoroastsautéwhite wine,",9.25,"63,11",11
-16394,74,Barba Yiannis Grilled Lamb ,4.33,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",6.31,"74,11",11
-16462,142,Venison Chili with Snowcap Beans ,4.19,876,81,47,"bean,bell pepper,onion,porksausagesoup/stew,super bowl,tailgatingtomatovenisonwinter",7.26,"142,11",11
-16499,179,"Sautéed Pork Chops with Sweet Potato, Apples and Mustard Sauce ",4.16,1495,121,89,"applecondimentdairy freedinner,fallfruit,meat,mustard,peanut freepork,pork chop,root vegetable,sautésoy freesweet potato/yamtree nut free,valentines dayvegetable,wheat/gluten-free,winter",6.01,"179,11",11
-16666,346,Southern Fried Chicken with Country Gravy ,3.99,1429,68,125,"deep-fry,dinnerfamily reunionno sugar added,party,peanut free,picnicsoy freetree nut free,",6.96,"346,11",11
-16724,404,Grilled Turkey with Cranberry Gravy ,4.04,1187,126,58,"christmas,cranberry,gourmetgrill,herb,thanksgiving,turkey",4.79,"404,11",11
-16862,542,"Hummus-Crusted Alaskan Wild King Salmon Over a Bed of French Beans, Red Onion, and Cucumber Salad with Lemon Oil ",2.95,1496,63,123,"advance prep required,beanbroil,chickpea,cucumber,dairy freedinnerfish,lemon,mothers day,pescatariansalmon,",5.02,"542,11",11
-16925,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,11",11
-16965,645,Ferran Adrias Rotisserie Chicken ,4.15,1043,77,67,"apricot,bake,cherry,chickenfruitnutpine nut,poultry,quick & easy,",8.75,"645,11",11
-16988,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,11",11
-17058,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,11",11
-17120,800,Fish Soup with Aïoli Croutons ,3.95,1093,133,47,"bon appétitcarrot,fennel,fish,garlicleekmayonnaise,soup/stewtomato,white wine,winter",8.45,"800,11",11
-17228,908,"Beef, Mushroom, and Broccoli Stir-Fry ",3.95,650,38,40,"beef,broccoligingermushroom,soy sauce,stir-frywhite wine,",8.53,"908,11",11
-17284,964,Grilled Steak with Arugula and Shaved Parmesan ,4.21,860,75,59,"arugula,bon appétitgrill/barbecuelow carbparmesansteak",9.02,"964,11",11
-17291,971,"Roast Chicken with Orange, Lemon, and Ginger ",4.01,1428,98,102,"appetizerchickenfallgingerkosherlemon,orangepassoverpeanut free,riceroast,rosh hashanah/yom kippur,sautésoy freetree nut freewheat/gluten-free,",9.55,"971,11",11
-17382,1062,Estouffade de Noël ,3.9,817,66,55,"beefbraisehouse & garden,mushroom,porkvegetablewinter",6.66,"1062,11",11
-17435,1115,Roast Lamb with Pistou ,4.01,1151,83,86,"basilbon appétit,food processorgarlic,lamblow carbparmesan,roast,tomato",8.58,"1115,11",11
-17491,1171,Jamaican Jerk Chicken ,4.03,936,58,71,"bakechicken,chill,food processorlime,marinate,spice,",6.95,"1171,11",11
-17506,1186,"Artichokes, Capers, Olives, Lemon Zest, and Italian Tuna on Pasta Shells ",4.04,884,44,38,"artichoke,capers,dinner,lunch,olive,pastaquick & easy,summer,tuna,",9.58,"1186,11",11
-17534,1214,Turkey Tonnato with Potatoes and Green Beans ,3.95,1497,147,82,"gourmetgreen beanpotato,poultrysummerturkey",6.82,"1214,11",11
-17571,1251,Red-Wine Braised Rabbit with Sage Polenta ,4.03,806,75,31,"braise,fallgourmet,herbvalentines day",9.17,"1251,11",11
-17579,1259,"Game Hens with Honey, Vinegar and Spice Glaze ",4.03,1439,107,101,"anise,bon appétit,cinnamonhealthy,honeypoultry,roastspicevinegar,",9.55,"1259,11",11
-17590,1270,Chicken Sauté with Sherry ,4.22,1012,74,77,"chicken,house & gardenpoultry,quick & easysauté,sherrywinter",8.79,"1270,11",11
-17644,1324,"Pepper Jack, Avocado and Black Beans in a Tortilla ",3.72,1001,52,55,"avocado,back to school,beancheesefall,grill/barbecuemonterey jacksandwich,tortillas,vegetable,vegetarian,",6.48,"1324,11",11
-17693,1373,Barba Yiannis Grilled Lamb ,4.12,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",7.94,"1373,11",11
-17697,1377,Miriam Reichls Corned Beef Ham ,4.1,675,45,45,"beef,mustardpeach,spring",6.77,"1377,11",11
-17824,1504,Braised Veal Breast with Potato-and-Onion Stuffing ,4.06,1299,90,89,"braise,christmas,christmas evecitrus,dill,easter,gourmet,herb,onionpotato,veal",7.16,"1504,11",11
-17904,1584,Chicken Breasts with Rock-Shrimp Sauce ,4.01,1240,131,72,"chickenchivegourmetquick & easyricesauté,shrimp,white wine,",7.61,"1584,11",11
-17939,1619,San Francisco Crab Meatball Chowder ,4.07,1001,72,60,"crabdairyeggfryshellfish,summer",7.89,"1619,11",11
-17970,18,Cider-Braised Pheasant with Pearl Onions and Apples ,4.0,1296,120,70,"apple,blender,braise,fallfruit,marinate,onion,orangetarragon,thanksgivingwhite wine,winter",7.16,"18,12",12
-18075,123,Pork Shoulder with Mustard-Mushroom Gravy ,3.94,1102,81,72,"bon appétit,fallmushroommustard,pork,roast,",9.91,"123,12",12
-18135,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,12",12
-18283,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,12",12
-18301,349,"Chicken Fricassée with Carrots, Mustard Greens and Avgolemono Sauce ",3.96,1386,105,98,"bake,bon appétit,chickenfalllemon,marinate,mustard,mustard greens",8.85,"349,12",12
-18321,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,12",12
-18323,371,Lamb Stew with Black Mustard Seeds ,3.71,823,41,63,"garlicgingergourmet,herb,jalapeño,lambseed,shallot,soup/stewstew",9.43,"371,12",12
-18350,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,12",12
-18379,427,Hanger Steak with Shallots ,4.05,511,42,32,"beefdinner,sauté,steakvalentines day",9.35,"427,12",12
-18487,535,Pretty Easter Pasta Pie (Crostata di tagliolini ) ,3.81,899,42,47,"easter,mozzarellaprosciutto,",9.28,"535,12",12
-18540,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,12",12
-18598,646,Veal Scallops Oporto ,3.8,1373,133,84,"beef,dairy,fortified winehouse & gardenmilk/creamport,sauté,veal,wine,winter",2.8,"646,12",12
-18632,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,12",12
-18785,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,12",12
-18807,855,Coke-Braised Pork Carnitas ,4.04,1388,54,123,bon appétitbraisecitruspork,9.49,"855,12",12
-18853,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,12",12
-18877,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,12",12
-18884,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,12",12
-18914,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,12",12
-19021,1069,Cumin-Crusted Lamb with Apricots ,3.58,728,60,46,"apricotlamblow fat,roastspice,winter",6.38,"1069,12",12
-19049,1097,Vietnamese Pho Rice Noodle Soup with Beef ,4.12,1084,88,38,"anise,beef,cilantro,clovedairy freedinner,gingerhot pepperlimenoodleonion,peanut freesoup/stew,soy freestir-frytree nut freewheat/gluten-free,",9.48,"1097,12",12
-19050,1098,Braised Lamb Shanks with Artichokes ,3.97,1196,93,74,"artichokebraise,dillgourmet,lambspring",8.01,"1098,12",12
-19269,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,12",12
-19273,1321,Cumin-Rubbed Rib-Eye Steaks with Two Salsas ,4.1,1162,68,94,"avocado,beefbon appétit,cilantrocucumber,tomato",9.23,"1321,12",12
-19336,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,12",12
-19337,1385,Herbed Roast Leg of Lamb ,4.12,1232,90,82,"bell pepper,gourmet,herblamb,mushroomonionroast,springtomatovegetable",9.29,"1385,12",12
-19352,1400,Boursin and Bacon on Cracked Pepper Bread ,3.95,767,34,57,"back to schoolbacon,cheesefall,porksandwich",9.77,"1400,12",12
-19550,1598,"Cod with Coconut, Lime, and Lemongrass Curry Sauce ",4.08,882,45,71,"bok choy,coconut,codcurry,dinnerfish,lemongrasslunch,no sugar addedpeanut free,soy freetree nut freewheat/gluten-free,",8.45,"1598,12",12
-19555,1603,Grilled Poussins with Lemon Herb Butter ,3.71,1465,108,111,"chickengourmet,grill/barbecueherb,lemonrosemary,thyme",7.68,"1603,12",12
-19558,1606,"Our Favorite Lasagna With Sausage, Spinach, and Three Cheeses ",4.05,721,45,43,"bake,kid-friendly,noodle,spinach",8.58,"1606,12",12
+,ix,title,rating,calories,protein,fat,tags,profit,dec_var,period,zij,dijmax
+81,81,Gordons Pot Roast ,4.11,1179,85,69,"beefbraise,fallgingergourmetmushroom,portred wineroot vegetabletomato",6.88,"81,1",1,"z81,1",0.20550000000000002
+111,111,Mustard Seed-Crusted Salmon with Mustard Cream Sauce ,4.12,529,38,38,"milk/cream,mustardquick & easysalmonsauté,seafood,white wine,",2.88,"111,1",1,"z111,1",0.20600000000000002
+167,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,1",1,"z167,1",0.2
+331,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,1",1,"z331,1",0.2015
+358,358,Fennel-Dusted Chicken with Brown Butter and Capers ,4.16,1315,142,78,"butter,caperschicken,dinner,gourmet,no sugar added,orange juice,pan-frypeanut free,quick & easysoy freesugar conscioustree nut freewheat/gluten-free,",5.21,"358,1",1,"z358,1",0.20800000000000002
+369,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,1",1,"z369,1",0.2025
+380,380,Marmalade-Glazed Ham with Sweet Orange-Tea Sauce ,4.12,1179,111,57,"bake,bon appétiteasterhamjam or jelly,mustard,springtea",4.89,"380,1",1,"z380,1",0.20600000000000002
+443,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,1",1,"z443,1",0.1915
+469,469,Chicken and Couscous with a Punchy Relish ,3.85,1419,97,87,"chicken,couscousdinnerkid-friendlyno sugar addedpeanut free,soy freetree nut free,",5.39,"469,1",1,"z469,1",0.1925
+535,535,Pretty Easter Pasta Pie (Crostata di tagliolini ) ,3.81,899,42,47,"easter,mozzarellaprosciutto,",9.28,"535,1",1,"z535,1",0.1905
+588,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,1",1,"z588,1",0.205
+668,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,1",1,"z668,1",0.2
+689,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,1",1,"z689,1",0.20350000000000001
+717,717,Peas with Baked Ricotta and Bread Crumbs ,3.99,1288,68,76,"bakecheesedairy,dinner,kosher,legumepeapeanut free,pescatarian,ricotta,soy free,spring,tree nut free,vegetable,vegetarian,",5.64,"717,1",1,"z717,1",0.1995
+719,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,1",1,"z719,1",0.2
+722,722,"Potato, Leek, and Pea Pot Pie With Spinach-Arugula Salad ",4.16,843,44,48,"30 days of groceriesarugulabakeleek,peapot pie,potato,radishsausagespinach",4.71,"722,1",1,"z722,1",0.20800000000000002
+737,737,Provencal Sauteed Chicken ,4.03,1443,100,106,"bon appétit,chicken,olivepork,sauté,tomato",5.13,"737,1",1,"z737,1",0.2015
+803,803,Stout-Braised Short Ribs ,4.06,1431,50,121,"beef rib,beerbraise,gourmet,winter",2.7,"803,1",1,"z803,1",0.20299999999999999
+915,915,Provençal Chicken Stew ,4.0,775,48,49,"back to schoololive,potlucksauté,slow cookersoup/stewstewtomatowinter",7.8,"915,1",1,"z915,1",0.2
+932,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,1",1,"z932,1",0.21450000000000002
+1175,1175,Family-Style Veal Roast ,4.19,1404,104,99,"beef rib,bon appétitbraise,garlic,herblow carbporksausageveal,white wine,winter",6.05,"1175,1",1,"z1175,1",0.20950000000000002
+1199,1199,Salade Niçoise ,4.13,669,42,39,"egggreen beanhealthylettuce,low fatolive,potatosalad,tomato,tuna,",3.5,"1199,1",1,"z1199,1",0.20650000000000002
+1232,1232,Crispy Snapper Tacos with Avocado and Tropical-Fruit Salsa ,4.08,1415,64,124,"dinnerfish,gourmetpartysauté,winter",3.43,"1232,1",1,"z1232,1",0.20400000000000001
+1256,1256,Chicken and Artichoke Stew ,4.08,1385,106,88,"artichokebon appétit,chickengarliconionsauté,simmersoup/stewspringtomato,white wine,",5.08,"1256,1",1,"z1256,1",0.20400000000000001
+1316,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,1",1,"z1316,1",0.1885
+1317,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,1",1,"z1317,1",0.2025
+1349,1349,Pan-Fried Lamb Chops with Rosemary and Garlic ,4.04,1020,37,95,"bon appétit,garlic,lamblow carb,quick & easyrosemarysauté,",9.18,"1349,1",1,"z1349,1",0.202
+1384,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,1",1,"z1384,1",0.205
+1498,1498,Chicken and Caraway Schnitzel with Buttermilk Spaetzle ,4.16,1242,52,56,"buttermilkchicken,dinner,fry,kid-friendly,quick & easy,",7.8,"1498,1",1,"z1498,1",0.20800000000000002
+1552,1552,Nicaraguan-Style Steak ,3.83,1168,81,92,"beefbon appétitcitrusmarinate,wheat/gluten-free,",8.27,"1552,1",1,"z1552,1",0.1915
+1679,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,2",2,"z47,2",0.197
+1695,63,Braised and Roasted Pork Shanks With Prosciutto and Porcini Mushrooms ,4.03,1488,130,94,"bon appétitbraisecarrot,garlic,herb,leekmushroomonion,pork,prosciuttoroastsautéwhite wine,",9.25,"63,2",2,"z63,2",0.2015
+1815,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,2",2,"z183,2",0.213
+1835,203,Corned Beef and Cabbage ,4.14,1150,68,92,"brisketcabbagecarrothouse & garden,onion,winter",5.22,"203,2",2,"z203,2",0.207
+1860,228,Lebanese Lamb and Bean Stew ,4.04,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",9.64,"228,2",2,"z228,2",0.202
+1868,236,Filets Mignons with Horseradish Crumbs ,4.08,753,47,55,"beef tenderloingourmetquick & easysauté,steak",3.63,"236,2",2,"z236,2",0.20400000000000001
+1984,352,Wild Turkey Glazed Ribs ,4.0,1327,73,107,"bakebourbongarlic,honey,kentucky derby,marinate,mustard,pork rib",2.08,"352,2",2,"z352,2",0.2
+2030,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,2",2,"z398,2",0.21000000000000002
+2059,427,Hanger Steak with Shallots ,4.05,511,42,32,"beefdinner,sauté,steakvalentines day",9.35,"427,2",2,"z427,2",0.2025
+2110,478,Chicken Wings with Curry-Yogurt Glaze ,3.95,521,44,33,"appetizerbakechickencurry,no sugar addedpeanut free,soy freetree nut freewheat/gluten-free,yogurt",8.66,"478,2",2,"z478,2",0.1975
+2132,500,Sautéed Chicken Breasts With Country Ham and Sage Sauce ,3.88,1220,111,80,"chicken,dinner,gourmet,hammilk/cream,sage,",3.72,"500,2",2,"z500,2",0.194
+2237,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,2",2,"z605,2",0.20650000000000002
+2265,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,2",2,"z633,2",0.2135
+2312,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,2",2,"z680,2",0.20350000000000001
+2329,697,"Baeckeoffe / Laundry Day Stew of Beef, Pork, and Lamb ",3.99,1120,66,73,"christmas,christmas evemandolinesoup/stewwinter",4.07,"697,2",2,"z697,2",0.1995
+2359,727,Tagine Bil Kok ,4.03,737,46,42,"fruit,honeylamb,prune,ramadansaffron,sesamespice,stewwinter",5.12,"727,2",2,"z727,2",0.2015
+2370,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,2",2,"z738,2",0.2015
+2420,788,Herb-Roasted Turkey with Apple Cider Gravy ,4.09,1182,140,55,"applebon appétitbrandy,brinecalvadosfall,fruit juiceherbmilk/cream,roastthanksgiving,turkey",5.78,"788,2",2,"z788,2",0.20450000000000002
+2487,855,Coke-Braised Pork Carnitas ,4.04,1388,54,123,bon appétitbraisecitruspork,9.49,"855,2",2,"z855,2",0.202
+2645,1013,Tuscan Chicken with Warm Bean Salad ,4.06,1448,107,88,"bakebean,bon appétit,broilchickenhealthylemon,marinate,rosemary,winter",8.56,"1013,2",2,"z1013,2",0.20299999999999999
+2689,1057,Jenga Ribs ,4.12,1377,76,114,"bake,bon appétitpork rib,spicesuper bowl,",8.87,"1057,2",2,"z1057,2",0.20600000000000002
+2700,1068,Herb-Braised Ham ,4.04,1475,123,83,"braise,christmas,clovedinner,gourmet,hamnutmegpeanut free,soy freesugar conscioustree nut free,vegetable,white wine,winter",5.28,"1068,2",2,"z1068,2",0.202
+2730,1098,Braised Lamb Shanks with Artichokes ,3.97,1196,93,74,"artichokebraise,dillgourmet,lambspring",8.01,"1098,2",2,"z1098,2",0.1985
+2778,1146,Trout Grenobloise ,4.08,760,71,40,"caperslemon,pan-fry,quick & easy,trout",4.96,"1146,2",2,"z1146,2",0.20400000000000001
+2884,1252,Lebanese Lamb and Bean Stew ,4.07,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",6.36,"1252,2",2,"z1252,2",0.20350000000000001
+2956,1324,"Pepper Jack, Avocado and Black Beans in a Tortilla ",3.72,1001,52,55,"avocado,back to school,beancheesefall,grill/barbecuemonterey jacksandwich,tortillas,vegetable,vegetarian,",6.48,"1324,2",2,"z1324,2",0.18600000000000003
+2972,1340,Poached Chicken with Ginger and Scallion Sauce ,4.2,1124,75,87,"chickenginger,lunar new year,onion,poachwinter",2.04,"1340,2",2,"z1340,2",0.21000000000000002
+2984,1352,Juniper-Brined Roast Turkey with Chanterelle Mushroom Gravy ,4.04,711,99,31,"berrychristmas,christmas evedinner,garlickidney friendlykosher,marinate,mushroom,no sugar added,onion,peanut free,pescatarian,poultry,roastsoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,turkey",4.56,"1352,2",2,"z1352,2",0.202
+3128,1496,Microwave Chicken Piccata ,3.51,1307,145,75,"asparaguscaperschicken,dinnerkid-friendly,lemon,microwaveno sugar added,parsley,peanut free,quick & easy,quick and healthy,soy freesugar conscioustree nut freewheat/gluten-free,",4.16,"1496,2",2,"z1496,2",0.1755
+3198,1566,Spiced Herb Marinade for Fish ,4.09,594,42,45,"bakecilantrogarliclemon,marinate,parsleysalmon,",6.94,"1566,2",2,"z1566,2",0.20450000000000002
+3284,20,Tacchino Ripieno ,3.44,939,78,48,"chestnutchristmasfallnut,parmesanporkpoultry,roastsautéthanksgivingwhite wine,turkey",3.89,"20,3",3,"z20,3",0.17200000000000001
+3364,100,Easy Summer Clambake ,4.28,1454,112,65,"bon appétit,clam,corn,lobsterpotato,sausagesummer",4.05,"100,3",3,"z100,3",0.21400000000000002
+3406,142,Venison Chili with Snowcap Beans ,4.19,876,81,47,"bean,bell pepper,onion,porksausagesoup/stew,super bowl,tailgatingtomatovenisonwinter",7.26,"142,3",3,"z142,3",0.20950000000000002
+3439,175,Chicken Sauté with Garlic ,4.06,1059,79,78,"chickengarlic,house & gardenpoultry,sauté,winter",4.54,"175,3",3,"z175,3",0.20299999999999999
+3473,209,Osso Buco ,4.04,618,61,31,"carrot,celery,house & garden,onion,veal,white wine,winter",8.74,"209,3",3,"z209,3",0.202
+3610,346,Southern Fried Chicken with Country Gravy ,3.99,1429,68,125,"deep-fry,dinnerfamily reunionno sugar added,party,peanut free,picnicsoy freetree nut free,",6.96,"346,3",3,"z346,3",0.1995
+3664,400,Epis 50-Ingredient Super Bowl Nachos ,4.23,1103,53,71,"appetizer,artichoke,cheesechickenentertaining,grill/barbecuehors doeuvre,party,peanut free,pizzapotatosoy free,spinach,super bowltortillastree nut free,",8.66,"400,3",3,"z400,3",0.21150000000000002
+3682,418,Chicken and Spelt Soup with Greens ,4.21,1029,78,57,"broccoli,carrot,celerychickengreen beanhealthykale,kid-friendlysoup/stew",4.04,"418,3",3,"z418,3",0.21050000000000002
+3686,422,Napa Valley Cabernet Burgers ,4.07,1314,48,86,"beefbon appétitgrill/barbecue,ground beef,red winesummer",9.95,"422,3",3,"z422,3",0.20350000000000001
+3708,444,Brisket With Pomegranate-Walnut Sauce and Pistachio Gremolata ,4.13,1277,74,98,"beefbrisket,garlickosher,kosher for passover,mint,passover,pistachio,pomegranate juice,roast,spring,wheat/gluten-free,",2.0,"444,3",3,"z444,3",0.20650000000000002
+3870,606,Beefsteak Bismarck ,3.93,633,39,51,"beef,ground beef,house & garden,onion,sandwichsummer",5.04,"606,3",3,"z606,3",0.1965
+3910,646,Veal Scallops Oporto ,3.8,1373,133,84,"beef,dairy,fortified winehouse & gardenmilk/creamport,sauté,veal,wine,winter",2.8,"646,3",3,"z646,3",0.19
+3959,695,Wild Mushroom Soup with Vegetable Confetti ,4.13,1116,85,74,"bon appétit,fallhigh fibermushroom,soup/stewvegetable",4.07,"695,3",3,"z695,3",0.20650000000000002
+3962,698,Moo-Shu Pork ,4.09,984,37,43,"cabbage,cucumbereggginger,lunar new yearmarinate,mushroom,pork,sesamestir-fry,wok",9.26,"698,3",3,"z698,3",0.20450000000000002
+3977,713,Oven-Poached Fish in Olive Oil ,4.05,1222,53,112,"capers,fish,gourmet,halibut,healthylemonparsley,poachspring",2.03,"713,3",3,"z713,3",0.2025
+3985,721,Chinese Pineapple Chicken ,4.02,1099,75,73,"celerychicken,dinner,fall,house & garden,onion,pineapple,stir-fry,",8.63,"721,3",3,"z721,3",0.20099999999999998
+4035,771,Barbecued Rack of Lamb with Tomato-Mint Dressing ,4.13,1390,42,134,"bon appétitgrill/barbecuelamb,mint,summertomato",4.74,"771,3",3,"z771,3",0.20650000000000002
+4089,825,Sheet-Pan Crispy Fish Tacos With Chili-Roasted Corn ,4.15,1209,97,59,"dairy freedinnerfish,healthy,kid-friendly,pescatarian,seedspringsummer,tortillas,",2.45,"825,3",3,"z825,3",0.20750000000000002
+4097,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,3",3,"z833,3",0.198
+4107,843,Chicken and Mushroom Marsala ,4.09,1113,121,63,"chickengourmetmarsalamushroomsauté,",2.53,"843,3",3,"z843,3",0.20450000000000002
+4127,863,Roast Chicken with Artichokes and Gremolata Butter ,4.13,1407,110,100,"artichokebon appétit,chicken,herb,low/no sugar,poultry,roast,spring",5.78,"863,3",3,"z863,3",0.20650000000000002
+4151,887,South African Curried Lamb Meatloaf ,3.92,713,35,49,"almondapple,bakecurryegggourmet,ground lambmilk/cream,quick & easyraisin,",7.39,"887,3",3,"z887,3",0.196
+4165,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,3",3,"z901,3",0.199
+4314,1050,Corned Beef with Horseradish Mustard Sauce ,3.66,947,61,76,"brisket,gourmethorseradishmustard,",7.59,"1050,3",3,"z1050,3",0.18300000000000002
+4351,1087,Baked Ham with Mustard-Red Currant Glaze and Rhubarb Chutney ,4.21,995,111,51,"bake,bon appétiteasterhamjam or jelly,mustard,spring,watercress,",5.61,"1087,3",3,"z1087,3",0.21050000000000002
+4441,1177,Grill-Roasted Whole Fish Stuffed with Fresh Herbs and Wrapped in Pancetta ,4.01,989,107,60,"backyard bbq,dairy freedinnerfish,grill,grill/barbecueherb,lunch,no sugar added,paleo,peanut freeporkseafood,soy freesugar conscious,summertarragonthyme,tree nut freewheat/gluten-free,",3.18,"1177,3",3,"z1177,3",0.2005
+4627,1363,Sausages and Green Lentils with Tomato Salsa ,4.04,1404,62,93,"citrusdairy freedinnerherblentilnew years day,new years eve,no sugar addedpeanut freepepperpork,roast,sausage,soy free,tomato,tree nut free,vegetable,wheat/gluten-free,",7.66,"1363,3",3,"z1363,3",0.202
+4696,1432,Red-Wine-Braised Oxtails ,4.08,1475,90,91,"bake,beefbraise,garlicgourmet,herbvalentines dayvegetablewinter",3.97,"1432,3",3,"z1432,3",0.20400000000000001
+4777,1513,Braised Lamb Shanks with Garlic and Rosemary ,3.98,889,79,56,"braisedairy freedinner,garlic,herblamblamb shank,paleo,peanut free,rosemarysoy freesugar conscioustree nut freewheat/gluten-free,winter",7.47,"1513,3",3,"z1513,3",0.199
+4868,1604,Grilled Leg of Lamb with Hot Red Pepper Relish ,4.12,1118,81,62,"backyard bbq,bell pepperchill,food processorgourmetgrill,grill/barbecue,hot pepper,lambmarinate",2.18,"1604,3",3,"z1604,3",0.20600000000000002
+4910,14,Chili Meatballs in Black Bean and Tomato Sauce ,4.09,1053,53,60,"bean,dinner,ground beef,kid-friendlysausage",4.65,"14,4",4,"z14,4",0.20450000000000002
+4914,18,Cider-Braised Pheasant with Pearl Onions and Apples ,4.0,1296,120,70,"apple,blender,braise,fallfruit,marinate,onion,orangetarragon,thanksgivingwhite wine,winter",7.16,"18,4",4,"z18,4",0.2
+5014,118,Mustard-Seed-Crusted Burgers with Horseradish Slaw ,3.96,879,34,66,"beefbon appétit,ground beefhorseradish,meat,mustardquick & easy,sandwich",2.61,"118,4",4,"z118,4",0.198
+5075,179,"Sautéed Pork Chops with Sweet Potato, Apples and Mustard Sauce ",4.16,1495,121,89,"applecondimentdairy freedinner,fallfruit,meat,mustard,peanut freepork,pork chop,root vegetable,sautésoy freesweet potato/yamtree nut free,valentines dayvegetable,wheat/gluten-free,winter",6.01,"179,4",4,"z179,4",0.20800000000000002
+5161,265,Braised Lamb Shanks on Soft Polenta with Bay Leaves ,4.13,1212,94,77,"bon appétitbraiseclove,fall,lamb shank,mushroomonion,red wine,rosemary,",3.76,"265,4",4,"z265,4",0.20650000000000002
+5200,304,Dijon and Tarragon Grilled Chicken ,4.16,1134,82,84,"bon appétit,chicken,grill/barbecue,mustard,summertarragon",9.37,"304,4",4,"z304,4",0.20800000000000002
+5227,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,4",4,"z331,4",0.2015
+5300,404,Grilled Turkey with Cranberry Gravy ,4.04,1187,126,58,"christmas,cranberry,gourmetgrill,herb,thanksgiving,turkey",4.79,"404,4",4,"z404,4",0.202
+5304,408,Pot Roast with Caramelized Onions and Roasted Carrots ,4.09,1462,77,108,"beef,beef rib,braisecarrotdinnermeat,onionroast,vegetablewinter",3.24,"408,4",4,"z408,4",0.20450000000000002
+5333,437,Crazy Cantina Chili ,3.94,742,39,31,"bean,chickpea,fall,kid-friendlysoup/stewtomato",5.02,"437,4",4,"z437,4",0.197
+5349,453,Pork Chops with Sour Cream-Dill Sauce ,3.99,877,104,42,"bon appétitconnecticut,dill,pork,pork chopsautésour creamspice,",7.23,"453,4",4,"z453,4",0.1995
+5484,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,4",4,"z588,4",0.205
+5537,641,Ginger Rum-Glazed Ham ,4.12,857,118,35,"easter,gourmet,ham,roastrum,",5.35,"641,4",4,"z641,4",0.20600000000000002
+5585,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,4",4,"z689,4",0.20350000000000001
+5612,716,Bacon-Wrapped Quail Stuffed with Goat Cheese ,4.08,965,63,76,"bacon,bakecheesefallgarlic,goat cheesegrill/barbecueherbpoultry,quail,stuffing/dressing,thanksgiving,winter",4.65,"716,4",4,"z716,4",0.20400000000000001
+5618,722,"Potato, Leek, and Pea Pot Pie With Spinach-Arugula Salad ",4.16,843,44,48,"30 days of groceriesarugulabakeleek,peapot pie,potato,radishsausagespinach",4.71,"722,4",4,"z722,4",0.20800000000000002
+5762,866,Malaysian-Style Chicken Curry ,4.01,1227,123,72,"chicken,coconut,food processorgourmet,herb,ricesauté,",2.07,"866,4",4,"z866,4",0.2005
+5821,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,4",4,"z925,4",0.20099999999999998
+5828,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,4",4,"z932,4",0.21450000000000002
+5858,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,4",4,"z962,4",0.20099999999999998
+6110,1214,Turkey Tonnato with Potatoes and Green Beans ,3.95,1497,147,82,"gourmetgreen beanpotato,poultrysummerturkey",6.82,"1214,4",4,"z1214,4",0.1975
+6166,1270,Chicken Sauté with Sherry ,4.22,1012,74,77,"chicken,house & gardenpoultry,quick & easysauté,sherrywinter",8.79,"1270,4",4,"z1270,4",0.211
+6197,1301,"Roasted Tofu with Shiitake, Soy, and Ginger Over Baby Spinach ",4.13,708,46,42,"garlic,leafy green,mushroomquick & easyroast,soyvegetable,vegetarian,",3.31,"1301,4",4,"z1301,4",0.20650000000000002
+6212,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,4",4,"z1316,4",0.1885
+6213,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,4",4,"z1317,4",0.2025
+6427,1531,Stuffed Leg of Lamb (Fakdeh Mehshi Khodra) ,3.52,899,68,50,"bake,dairy freedinner,garlic,lamb,mintparsley,peanut freeramadan,roastsoy freetree nut free,",2.72,"1531,4",4,"z1531,4",0.17600000000000002
+6448,1552,Nicaraguan-Style Steak ,3.83,1168,81,92,"beefbon appétitcitrusmarinate,wheat/gluten-free,",8.27,"1552,4",4,"z1552,4",0.1915
+6461,1565,Lebanese Chicken ,4.04,1495,128,103,"bake,bon appétit,chickenhealthylemon,low carb,low/no sugar,marinate,spice,",3.37,"1565,4",4,"z1565,4",0.202
+6508,1612,Tortillas with Grilled Adobo Pork and Pineapple ,4.12,929,33,73,"blenderbroil,citrus,food processorfruitgarlic,grill/barbecueherbmarinate,onion,pineapplepork",8.16,"1612,4",4,"z1612,4",0.20600000000000002
+6515,1619,San Francisco Crab Meatball Chowder ,4.07,1001,72,60,"crabdairyeggfryshellfish,summer",7.89,"1619,4",4,"z1619,4",0.20350000000000001
+6571,43,"Red Wine-Braised Short Rib Stew with Potatoes, Carrots, and Mushrooms ",4.08,1107,63,79,"beef rib,carrotdinner,harpercollins,kid-friendly,mushroom,one-pot mealpeanut free,potato,soup/stew,soy freetree nut freewheat/gluten-free,",2.88,"43,5",5,"z43,5",0.20400000000000001
+6575,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,5",5,"z47,5",0.197
+6619,91,Garlic and Herb Spatchcock Grilled Chicken ,4.25,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",7.43,"91,5",5,"z91,5",0.21250000000000002
+6695,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,5",5,"z167,5",0.2
+6723,195,Rabbit Cacciatore ,4.21,664,75,31,"bon appétit,garlicrabbitsauté,stewsummertomato,white wine,",6.9,"195,5",5,"z195,5",0.21050000000000002
+6836,308,Rib-Eye Steaks with Bell Pepper and Olives ,3.89,998,65,80,"beefbell pepper,gourmetlow/no sugar,olive,quick & easysauté,",4.25,"308,5",5,"z308,5",0.1945
+6971,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,5",5,"z443,5",0.1915
+7033,505,Grilled Chicken with Shredded Mesclun Salad ,4.06,1223,84,91,"basil,chickengourmet,grill/barbecueleafy green,limesaladshallot,summertomato",8.4,"505,5",5,"z505,5",0.20299999999999999
+7161,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,5",5,"z633,5",0.2135
+7196,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,5",5,"z668,5",0.2
+7247,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,5",5,"z719,5",0.2
+7266,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,5",5,"z738,5",0.2015
+7292,764,Rack of Lamb with Green Peppercorn Sauce ,3.96,1414,50,129,"easterfathers day,gourmet,lamb,roast,winter",4.59,"764,5",5,"z764,5",0.198
+7316,788,Herb-Roasted Turkey with Apple Cider Gravy ,4.09,1182,140,55,"applebon appétitbrandy,brinecalvadosfall,fruit juiceherbmilk/cream,roastthanksgiving,turkey",5.78,"788,5",5,"z788,5",0.20450000000000002
+7383,855,Coke-Braised Pork Carnitas ,4.04,1388,54,123,bon appétitbraisecitruspork,9.49,"855,5",5,"z855,5",0.202
+7449,921,Smoked Cheddar-Jalapeño Ranch Meat Loaf ,4.01,856,67,61,"bacon,bake,beef,beef tenderloin,cheddar,cheesefalljalapeño,pork",5.49,"921,5",5,"z921,5",0.2005
+7588,1060,Braised Lamb Shanks on Soft Polenta with Bay Leaves ,4.04,1212,94,77,"bon appétitbraiseclove,fall,lamb shank,mushroomonion,red wine,rosemary,",4.39,"1060,5",5,"z1060,5",0.202
+7636,1108,Lamb en Daube ,3.85,1223,71,99,"bacon,bake,house & gardenlambmarinateporkred wine,wine,winter",3.85,"1108,5",5,"z1108,5",0.1925
+7715,1187,Chicken and Mixed Vegetable Stew ,4.05,1395,91,88,"bon appétit,chickenpotato,soup/stewstewvegetablewinter",8.39,"1187,5",5,"z1187,5",0.2025
+7760,1232,Crispy Snapper Tacos with Avocado and Tropical-Fruit Salsa ,4.08,1415,64,124,"dinnerfish,gourmetpartysauté,winter",3.43,"1232,5",5,"z1232,5",0.20400000000000001
+7763,1235,Pink Chicken Sauté ,3.99,1182,80,90,"chickendairy,house & garden,sauté,winter",4.13,"1235,5",5,"z1235,5",0.1995
+7792,1264,"Lobster, Scallops, and Mussels with Tomato Garlic Vinaigrette ",4.01,802,108,32,"chill,garlicgourmetlobster,marinatemusselscallopsummertomato,white wine,",4.78,"1264,5",5,"z1264,5",0.2005
+7810,1282,Pan Seared Sea Scallops with Chorizo and Fu Fu ,4.0,1052,47,56,"nutpistachio,plantainpork,raisin,sausage,sautéshellfish,",5.95,"1282,5",5,"z1282,5",0.2
+7847,1319,Grill-Smoked Salmon ,4.17,649,64,42,"backyard bbq,fishgrill/barbecue,picnicsalmon,summer",7.15,"1319,5",5,"z1319,5",0.20850000000000002
+7849,1321,Cumin-Rubbed Rib-Eye Steaks with Two Salsas ,4.1,1162,68,94,"avocado,beefbon appétit,cilantrocucumber,tomato",9.23,"1321,5",5,"z1321,5",0.205
+7868,1340,Poached Chicken with Ginger and Scallion Sauce ,4.2,1124,75,87,"chickenginger,lunar new year,onion,poachwinter",2.04,"1340,5",5,"z1340,5",0.21000000000000002
+7880,1352,Juniper-Brined Roast Turkey with Chanterelle Mushroom Gravy ,4.04,711,99,31,"berrychristmas,christmas evedinner,garlickidney friendlykosher,marinate,mushroom,no sugar added,onion,peanut free,pescatarian,poultry,roastsoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,turkey",4.56,"1352,5",5,"z1352,5",0.202
+7976,1448,Light Mediterranean Salad with Lamb Chops ,4.03,1162,37,106,"backyard bbq,bell pepper,broilcucumberdillgarlicgrillhealthylamb choplemonlow cal,marinateparade,salad,summertomatoyogurt",2.31,"1448,5",5,"z1448,5",0.2015
+8064,1536,Juniper-Brined Roast Turkey with Chanterelle Mushroom Gravy ,4.11,711,99,31,"berrychristmas,christmas evedinner,garlickidney friendlykosher,marinate,mushroom,no sugar added,onion,peanut free,pescatarian,poultry,roastsoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,turkey",3.54,"1536,5",5,"z1536,5",0.20550000000000002
+8089,1561,Grilled Pork Kebabs with Manchamantel Sauce ,4.05,1217,131,43,"banana,broilgourmet,herbmarinate,onion,pineapplepork",7.92,"1561,5",5,"z1561,5",0.2025
+8194,34,Grilled Pork Chops with Tomatillo Salsa ,4.07,1279,65,100,"bon appétit,broilfood processor,grill/barbecuepork,pork choptomatillo,",6.16,"34,6",6,"z34,6",0.20350000000000001
+8234,74,Barba Yiannis Grilled Lamb ,4.33,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",6.31,"74,6",6,"z74,6",0.21650000000000003
+8506,346,Southern Fried Chicken with Country Gravy ,3.99,1429,68,125,"deep-fry,dinnerfamily reunionno sugar added,party,peanut free,picnicsoy freetree nut free,",6.96,"346,6",6,"z346,6",0.1995
+8512,352,Wild Turkey Glazed Ribs ,4.0,1327,73,107,"bakebourbongarlic,honey,kentucky derby,marinate,mustard,pork rib",2.08,"352,6",6,"z352,6",0.2
+8587,427,Hanger Steak with Shallots ,4.05,511,42,32,"beefdinner,sauté,steakvalentines day",9.35,"427,6",6,"z427,6",0.2025
+8602,442,Five-Spice Roasted Guinea Hens ,4.02,1061,137,45,"anisegingergourmet,leafy green,roastsautéspicesteam,",2.27,"442,6",6,"z442,6",0.20099999999999998
+8604,444,Brisket With Pomegranate-Walnut Sauce and Pistachio Gremolata ,4.13,1277,74,98,"beefbrisket,garlickosher,kosher for passover,mint,passover,pistachio,pomegranate juice,roast,spring,wheat/gluten-free,",2.0,"444,6",6,"z444,6",0.20650000000000002
+8610,450,Spice-Rubbed Lamb Chops with Roasted Tomatoes ,3.86,1391,52,128,"bakegourmet,lamb,quick & easysauté,tomato",2.37,"450,6",6,"z450,6",0.193
+8789,629,Barbecue-Braised Oxtail with Red Chili Beans ,4.08,1443,88,97,"bean,beefbraise,fallgourmetonion,tomato",5.16,"629,6",6,"z629,6",0.20400000000000001
+8805,645,Ferran Adrias Rotisserie Chicken ,4.15,1043,77,67,"apricot,bake,cherry,chickenfruitnutpine nut,poultry,quick & easy,",8.75,"645,6",6,"z645,6",0.20750000000000002
+8880,720,Chorizo Bolognese with Buffalo Mozzarella ,3.99,1216,57,63,"dinnerkid-friendly,lunchmozzarellapasta,peanut free,quick & easy,sausage,soy free,tomato,tree nut free,",2.23,"720,6",6,"z720,6",0.1995
+8941,781,Veal Saltimbocca ,4.15,1169,99,57,"beefbon appétit,missouriprosciuttosagesauté,st. louis",8.13,"781,6",6,"z781,6",0.20750000000000002
+8945,785,Marmalade-Glazed Spareribs ,4.01,1432,74,106,"bon appétit,fall,jam or jellymarinateorangepork rib,roast,",5.67,"785,6",6,"z785,6",0.2005
+8983,823,Maple-Glazed Turkey with Dijon Gravy ,4.04,1069,149,36,"bon appétit,fall,maple syrup,mustardroastthanksgiving,turkey",4.76,"823,6",6,"z823,6",0.202
+9059,899,Breakfast Banh Mi Sandwich with Eggs and Sausage ,4.06,874,46,56,"breakfast,dairy free,egg,peanut freeporksandwichsausage,soy freetree nut free,",2.85,"899,6",6,"z899,6",0.20299999999999999
+9061,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,6",6,"z901,6",0.199
+9064,904,Irish Bacon and Cabbage ,4.06,1046,91,61,"bon appétitcabbagecarrot,garlic,porkspring,st. patricks day,",6.22,"904,6",6,"z904,6",0.20299999999999999
+9068,908,"Beef, Mushroom, and Broccoli Stir-Fry ",3.95,650,38,40,"beef,broccoligingermushroom,soy sauce,stir-frywhite wine,",8.53,"908,6",6,"z908,6",0.1975
+9124,964,Grilled Steak with Arugula and Shaved Parmesan ,4.21,860,75,59,"arugula,bon appétitgrill/barbecuelow carbparmesansteak",9.02,"964,6",6,"z964,6",0.21050000000000002
+9127,967,Fried Rice with Crab ,3.85,790,34,50,"crabeggfallriceshellfishstir-fry,",2.04,"967,6",6,"z967,6",0.1925
+9274,1114,"Easy Green Curry With Chicken, Bell Pepper, and Sugar Snap Peas ",4.11,954,64,71,"22-minute meals,bell pepper,chicken,coconut,curry,dairy freedinner,kosher,lime juiceno sugar added,paleo,peanut free,quick & easy,quick and healthy,soy free,sugar snap pea,tree nut freewheat/gluten-free,",7.29,"1114,6",6,"z1114,6",0.20550000000000002
+9327,1167,Baked Trout with Spinach-Butter Sauce ,3.42,940,91,61,"bakedairy,fishherbleafy green,quick & easy,trout",2.3,"1167,6",6,"z1167,6",0.171
+9331,1171,Jamaican Jerk Chicken ,4.03,936,58,71,"bakechicken,chill,food processorlime,marinate,spice,",6.95,"1171,6",6,"z1171,6",0.2015
+9337,1177,Grill-Roasted Whole Fish Stuffed with Fresh Herbs and Wrapped in Pancetta ,4.01,989,107,60,"backyard bbq,dairy freedinnerfish,grill,grill/barbecueherb,lunch,no sugar added,paleo,peanut freeporkseafood,soy freesugar conscious,summertarragonthyme,tree nut freewheat/gluten-free,",3.18,"1177,6",6,"z1177,6",0.2005
+9498,1338,Garlic and Herb Spatchcock Grilled Chicken ,4.11,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",4.16,"1338,6",6,"z1338,6",0.20550000000000002
+9533,1373,Barba Yiannis Grilled Lamb ,4.12,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",7.94,"1373,6",6,"z1373,6",0.20600000000000002
+9580,1420,Agave-Glazed Turkey Breast with Sherry Gravy ,4.18,1016,133,43,"dinner,fall,fortified wine,gourmetonion,poultry,roast,sherry,thanksgiving,turkey",8.56,"1420,6",6,"z1420,6",0.209
+9664,1504,Braised Veal Breast with Potato-and-Onion Stuffing ,4.06,1299,90,89,"braise,christmas,christmas evecitrus,dill,easter,gourmet,herb,onionpotato,veal",7.16,"1504,6",6,"z1504,6",0.20299999999999999
+9744,1584,Chicken Breasts with Rock-Shrimp Sauce ,4.01,1240,131,72,"chickenchivegourmetquick & easyricesauté,shrimp,white wine,",7.61,"1584,6",6,"z1584,6",0.2005
+9766,1606,"Our Favorite Lasagna With Sausage, Spinach, and Three Cheeses ",4.05,721,45,43,"bake,kid-friendly,noodle,spinach",8.58,"1606,6",6,"z1606,6",0.2025
+9907,115,Lamb Chops with Oregano and Lemon ,4.19,1386,54,127,"backyard bbq,bon appétitchill,fall,grill/barbecueherblamb,lemon,oreganosummer",8.49,"115,7",7,"z115,7",0.20950000000000002
+9975,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,7",7,"z183,7",0.213
+10104,312,Pasta With 15-Minute Meat Sauce ,4.21,885,36,38,"ground beef,kid-friendly,pasta,pork,quick & easy,tomato",8.2,"312,7",7,"z312,7",0.21050000000000002
+10113,321,Beef and Mushroom Stew ,3.79,694,50,48,"beef,gourmetmushroompastaquick & easy,soup/stewstew",9.15,"321,7",7,"z321,7",0.1895
+10118,326,Korean-Style Grain Bowls With Spicy Marinated Steak ,4.06,1251,67,50,"asparagus,cabbagechile pepper,eggflaming hot summergrains,steaksugar snap pea",7.02,"326,7",7,"z326,7",0.20299999999999999
+10123,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,7",7,"z331,7",0.2015
+10172,380,Marmalade-Glazed Ham with Sweet Orange-Tea Sauce ,4.12,1179,111,57,"bake,bon appétiteasterhamjam or jelly,mustard,springtea",4.89,"380,7",7,"z380,7",0.20600000000000002
+10190,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,7",7,"z398,7",0.21000000000000002
+10210,418,Chicken and Spelt Soup with Greens ,4.21,1029,78,57,"broccoli,carrot,celerychickengreen beanhealthykale,kid-friendlysoup/stew",4.04,"418,7",7,"z418,7",0.21050000000000002
+10261,469,Chicken and Couscous with a Punchy Relish ,3.85,1419,97,87,"chicken,couscousdinnerkid-friendlyno sugar addedpeanut free,soy freetree nut free,",5.39,"469,7",7,"z469,7",0.1925
+10380,588,Herb-Roasted Leg of Lamb with Vegetables and Jus ,4.1,1023,78,65,"carrot,celery,easter,garlic,herblamb,onionroastwhite wine,",7.85,"588,7",7,"z588,7",0.205
+10397,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,7",7,"z605,7",0.20650000000000002
+10472,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,7",7,"z680,7",0.20350000000000001
+10514,722,"Potato, Leek, and Pea Pot Pie With Spinach-Arugula Salad ",4.16,843,44,48,"30 days of groceriesarugulabakeleek,peapot pie,potato,radishsausagespinach",4.71,"722,7",7,"z722,7",0.20800000000000002
+10529,737,Provencal Sauteed Chicken ,4.03,1443,100,106,"bon appétit,chicken,olivepork,sauté,tomato",5.13,"737,7",7,"z737,7",0.2015
+10625,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,7",7,"z833,7",0.198
+10710,918,Agave-Glazed Turkey Breast with Sherry Gravy ,4.1,1016,133,43,"dinner,fall,fortified wine,gourmetonion,poultry,roast,sherry,thanksgiving,turkey",8.4,"918,7",7,"z918,7",0.205
+10717,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,7",7,"z925,7",0.20099999999999998
+10724,932,Collards ,4.29,761,65,35,"bacon,christmascollard greens,dairy freeleafy greennew years dayno sugar added,paleo,peanut free,sidesoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,",8.69,"932,7",7,"z932,7",0.21450000000000002
+10849,1057,Jenga Ribs ,4.12,1377,76,114,"bake,bon appétitpork rib,spicesuper bowl,",8.87,"1057,7",7,"z1057,7",0.20600000000000002
+10978,1186,"Artichokes, Capers, Olives, Lemon Zest, and Italian Tuna on Pasta Shells ",4.04,884,44,38,"artichoke,capers,dinner,lunch,olive,pastaquick & easy,summer,tuna,",9.58,"1186,7",7,"z1186,7",0.202
+10991,1199,Salade Niçoise ,4.13,669,42,39,"egggreen beanhealthylettuce,low fatolive,potatosalad,tomato,tuna,",3.5,"1199,7",7,"z1199,7",0.20650000000000002
+11006,1214,Turkey Tonnato with Potatoes and Green Beans ,3.95,1497,147,82,"gourmetgreen beanpotato,poultrysummerturkey",6.82,"1214,7",7,"z1214,7",0.1975
+11109,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,7",7,"z1317,7",0.2025
+11110,1318,"Roast Game Hens with Sherry, Ginger and Lime ",3.74,1367,102,102,"bon appétitdinner,gingerlimenew jerseyroast,",7.11,"1318,7",7,"z1318,7",0.18700000000000003
+11177,1385,Herbed Roast Leg of Lamb ,4.12,1232,90,82,"bell pepper,gourmet,herblamb,mushroomonionroast,springtomatovegetable",9.29,"1385,7",7,"z1385,7",0.20600000000000002
+11273,1481,Soft-Shell Crabs with Wilted Spinach and Warm Tomato-Basil Vinaigrette ,4.01,691,57,41,"crabhigh fiber,leafy greenmarinate,sauté,seafood,shellfish,spinachspringsummer",3.51,"1481,7",7,"z1481,7",0.2005
+11288,1496,Microwave Chicken Piccata ,3.51,1307,145,75,"asparaguscaperschicken,dinnerkid-friendly,lemon,microwaveno sugar added,parsley,peanut free,quick & easy,quick and healthy,soy freesugar conscioustree nut freewheat/gluten-free,",4.16,"1496,7",7,"z1496,7",0.1755
+11358,1566,Spiced Herb Marinade for Fish ,4.09,594,42,45,"bakecilantrogarliclemon,marinate,parsleysalmon,",6.94,"1566,7",7,"z1566,7",0.20450000000000002
+11395,1603,Grilled Poussins with Lemon Herb Butter ,3.71,1465,108,111,"chickengourmet,grill/barbecueherb,lemonrosemary,thyme",7.68,"1603,7",7,"z1603,7",0.1855
+11515,91,Garlic and Herb Spatchcock Grilled Chicken ,4.25,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",7.43,"91,8",8,"z91,8",0.21250000000000002
+11524,100,Easy Summer Clambake ,4.28,1454,112,65,"bon appétit,clam,corn,lobsterpotato,sausagesummer",4.05,"100,8",8,"z100,8",0.21400000000000002
+11535,111,Mustard Seed-Crusted Salmon with Mustard Cream Sauce ,4.12,529,38,38,"milk/cream,mustardquick & easysalmonsauté,seafood,white wine,",2.88,"111,8",8,"z111,8",0.20600000000000002
+11581,157,Baked Ham with Mustard and Marjoram ,4.16,1162,125,58,"bake,bon appétitbuffet,christmas,family reunionfortified winehamherb,kentucky derbymustard,orangepork",8.34,"157,8",8,"z157,8",0.20800000000000002
+11587,163,Lamb Rack with Cucumber Yogurt ,4.14,1186,46,106,"advance prep required,cucumber,dinnereasterlambno sugar addedpeanut freerack of lamb,roastsoy free,spring,wheat/gluten-free,yogurt",5.98,"163,8",8,"z163,8",0.207
+11640,216,Honey-Glazed Rack of Lamb ,4.1,1388,47,107,"bon appétithoneylamb,roast,valentines dayvegetable",8.35,"216,8",8,"z216,8",0.205
+11793,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,8",8,"z369,8",0.2025
+11828,404,Grilled Turkey with Cranberry Gravy ,4.04,1187,126,58,"christmas,cranberry,gourmetgrill,herb,thanksgiving,turkey",4.79,"404,8",8,"z404,8",0.202
+11862,438,Nachos ,4.0,727,32,46,"appetizerbeancheese,kid-friendly,lunchquick & easysugar conscioustortillas,weelicious",6.34,"438,8",8,"z438,8",0.2
+11867,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,8",8,"z443,8",0.1915
+12008,584,Spice-Crusted Ham with Maple Mustard Sauce ,4.06,1068,94,63,"bake,buffet,christmas,easter,garlicgourmet,ham,spice,",3.18,"584,8",8,"z584,8",0.20299999999999999
+12030,606,Beefsteak Bismarck ,3.93,633,39,51,"beef,ground beef,house & garden,onion,sandwichsummer",5.04,"606,8",8,"z606,8",0.1965
+12052,628,Brooklyn Feijoada ,4.12,1240,91,65,"bacon,bean,beef,chickengarliconion,porksausage,sauté,",4.1,"628,8",8,"z628,8",0.20600000000000002
+12065,641,Ginger Rum-Glazed Ham ,4.12,857,118,35,"easter,gourmet,ham,roastrum,",5.35,"641,8",8,"z641,8",0.20600000000000002
+12113,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,8",8,"z689,8",0.20350000000000001
+12212,788,Herb-Roasted Turkey with Apple Cider Gravy ,4.09,1182,140,55,"applebon appétitbrandy,brinecalvadosfall,fruit juiceherbmilk/cream,roastthanksgiving,turkey",5.78,"788,8",8,"z788,8",0.20450000000000002
+12279,855,Coke-Braised Pork Carnitas ,4.04,1388,54,123,bon appétitbraisecitruspork,9.49,"855,8",8,"z855,8",0.202
+12290,866,Malaysian-Style Chicken Curry ,4.01,1227,123,72,"chicken,coconut,food processorgourmet,herb,ricesauté,",2.07,"866,8",8,"z866,8",0.2005
+12297,873,Croque Monsieur ,3.96,819,55,48,"back to school,cheesefall,grill/barbecuehamporksandwichswiss cheese",8.78,"873,8",8,"z873,8",0.198
+12327,903,Grilled Salmon in Corn Husks ,3.99,1210,43,99,"backyard bbq,cornfish,garlicgrill,grill/barbecueherb,hot peppersalmon,summer",4.32,"903,8",8,"z903,8",0.1995
+12345,921,Smoked Cheddar-Jalapeño Ranch Meat Loaf ,4.01,856,67,61,"bacon,bake,beef,beef tenderloin,cheddar,cheesefalljalapeño,pork",5.49,"921,8",8,"z921,8",0.2005
+12395,971,"Roast Chicken with Orange, Lemon, and Ginger ",4.01,1428,98,102,"appetizerchickenfallgingerkosherlemon,orangepassoverpeanut free,riceroast,rosh hashanah/yom kippur,sautésoy freetree nut freewheat/gluten-free,",9.55,"971,8",8,"z971,8",0.2005
+12488,1064,Thai Spareribs ,4.08,1453,76,118,"advance prep requiredbeefbon appétitbraisechilldinnermarinate,partysuper bowl,tailgating",8.44,"1064,8",8,"z1064,8",0.20400000000000001
+12570,1146,Trout Grenobloise ,4.08,760,71,40,"caperslemon,pan-fry,quick & easy,trout",4.96,"1146,8",8,"z1146,8",0.20400000000000001
+12676,1252,Lebanese Lamb and Bean Stew ,4.07,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",6.36,"1252,8",8,"z1252,8",0.20350000000000001
+12776,1352,Juniper-Brined Roast Turkey with Chanterelle Mushroom Gravy ,4.04,711,99,31,"berrychristmas,christmas evedinner,garlickidney friendlykosher,marinate,mushroom,no sugar added,onion,peanut free,pescatarian,poultry,roastsoy freesugar consciousthanksgivingtree nut freewheat/gluten-free,turkey",4.56,"1352,8",8,"z1352,8",0.202
+12801,1377,Miriam Reichls Corned Beef Ham ,4.1,675,45,45,"beef,mustardpeach,spring",6.77,"1377,8",8,"z1377,8",0.205
+12872,1448,Light Mediterranean Salad with Lamb Chops ,4.03,1162,37,106,"backyard bbq,bell pepper,broilcucumberdillgarlicgrillhealthylamb choplemonlow cal,marinateparade,salad,summertomatoyogurt",2.31,"1448,8",8,"z1448,8",0.2015
+12970,1546,Pretzel-Crusted Chicken Cutlets With Cauliflower Purée and Arugula ,4.03,1394,51,105,"22-minute mealscauliflowerchicken,dinnerleafy greenpeanut free,quick & easysoy freetree nut free,",3.48,"1546,8",8,"z1546,8",0.2015
+13043,1619,San Francisco Crab Meatball Chowder ,4.07,1001,72,60,"crabdairyeggfryshellfish,summer",7.89,"1619,8",8,"z1619,8",0.20350000000000001
+13130,74,Barba Yiannis Grilled Lamb ,4.33,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",6.31,"74,9",9,"z74,9",0.21650000000000003
+13198,142,Venison Chili with Snowcap Beans ,4.19,876,81,47,"bean,bell pepper,onion,porksausagesoup/stew,super bowl,tailgatingtomatovenisonwinter",7.26,"142,9",9,"z142,9",0.20950000000000002
+13333,277,New York Strip Roast With Rosemary-Orange Crust and Herbed Butter ,4.1,844,56,65,"christmas,christmas evedinnerherbkid-friendlyorange,party,peanut free,rosemarysoy free,steak,sugar conscioustree nut free,",4.15,"277,9",9,"z277,9",0.205
+13408,352,Wild Turkey Glazed Ribs ,4.0,1327,73,107,"bakebourbongarlic,honey,kentucky derby,marinate,mustard,pork rib",2.08,"352,9",9,"z352,9",0.2
+13456,400,Epis 50-Ingredient Super Bowl Nachos ,4.23,1103,53,71,"appetizer,artichoke,cheesechickenentertaining,grill/barbecuehors doeuvre,party,peanut free,pizzapotatosoy free,spinach,super bowltortillastree nut free,",8.66,"400,9",9,"z400,9",0.21150000000000002
+13486,430,Wine-Braised Ham with Shallots and Carrots ,4.16,951,75,50,"bon appétitbraisecarroteasterhamjam or jellymilk/cream,parsleyshallot,springthyme,white wine,",5.21,"430,9",9,"z430,9",0.20800000000000002
+13498,442,Five-Spice Roasted Guinea Hens ,4.02,1061,137,45,"anisegingergourmet,leafy green,roastsautéspicesteam,",2.27,"442,9",9,"z442,9",0.20099999999999998
+13551,495,Rib Eye Steaks with Mixed Mushroom Sauté ,4.0,1430,88,115,"beefbon appétitfathers day,mushroomquick & easysauté,steak,wheat/gluten-free,winter",7.52,"495,9",9,"z495,9",0.2
+13591,535,Pretty Easter Pasta Pie (Crostata di tagliolini ) ,3.81,899,42,47,"easter,mozzarellaprosciutto,",9.28,"535,9",9,"z535,9",0.1905
+13689,633,Roasted Poussins with Pomegranate Sauce and Potato Rösti ,4.27,1230,80,79,"chicken,herbpassover,potatorosemary,rosh hashanah/yom kippursaffron,walnut,",9.78,"633,9",9,"z633,9",0.2135
+13711,655,Beet and Braised Beef Soup ,4.03,1140,44,83,"beef,beef ribbeet,braisecarrotfamily reunion,kosher,lima bean,sauté,soup/stewvegetablewinter",4.44,"655,9",9,"z655,9",0.2015
+13775,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,9",9,"z719,9",0.2
+13820,764,Rack of Lamb with Green Peppercorn Sauce ,3.96,1414,50,129,"easterfathers day,gourmet,lamb,roast,winter",4.59,"764,9",9,"z764,9",0.198
+13827,771,Barbecued Rack of Lamb with Tomato-Mint Dressing ,4.13,1390,42,134,"bon appétitgrill/barbecuelamb,mint,summertomato",4.74,"771,9",9,"z771,9",0.20650000000000002
+13881,825,Sheet-Pan Crispy Fish Tacos With Chili-Roasted Corn ,4.15,1209,97,59,"dairy freedinnerfish,healthy,kid-friendly,pescatarian,seedspringsummer,tortillas,",2.45,"825,9",9,"z825,9",0.20750000000000002
+14018,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,9",9,"z962,9",0.20099999999999998
+14023,967,Fried Rice with Crab ,3.85,790,34,50,"crabeggfallriceshellfishstir-fry,",2.04,"967,9",9,"z967,9",0.1925
+14136,1080,Boneless Leg of Lamb Stuffed with Swiss Chard and Feta ,4.12,1438,118,98,"chardeasterfeta,garlicgourmethigh fiber,lambred wine,roast,vegetable",3.12,"1080,9",9,"z1080,9",0.20600000000000002
+14143,1087,Baked Ham with Mustard-Red Currant Glaze and Rhubarb Chutney ,4.21,995,111,51,"bake,bon appétiteasterhamjam or jelly,mustard,spring,watercress,",5.61,"1087,9",9,"z1087,9",0.21050000000000002
+14153,1097,Vietnamese Pho Rice Noodle Soup with Beef ,4.12,1084,88,38,"anise,beef,cilantro,clovedairy freedinner,gingerhot pepperlimenoodleonion,peanut freesoup/stew,soy freestir-frytree nut freewheat/gluten-free,",9.48,"1097,9",9,"z1097,9",0.20600000000000002
+14223,1167,Baked Trout with Spinach-Butter Sauce ,3.42,940,91,61,"bakedairy,fishherbleafy green,quick & easy,trout",2.3,"1167,9",9,"z1167,9",0.171
+14297,1241,Rib-Eye Steaks with Curried Salt ,4.04,891,65,70,"beef,currygourmetquick & easysauté,steak",6.89,"1241,9",9,"z1241,9",0.202
+14372,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,9",9,"z1316,9",0.1885
+14400,1344,Spice-Rubbed Steak with Quick Garlic Fries ,4.03,1170,47,96,"beef,frygourmetpotatoquick & easysauté,steak",5.16,"1344,9",9,"z1344,9",0.2015
+14429,1373,Barba Yiannis Grilled Lamb ,4.12,1068,50,93,"backyard bbqgarlicgrill,grill/barbecuelamb,lemon,marinate,onion,oreganopeppersummer",7.94,"1373,9",9,"z1373,9",0.20600000000000002
+14440,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,9",9,"z1384,9",0.205
+14499,1443,Grilled Lobster Salad with Avocado and Papaya ,3.95,1179,137,52,"avocadobackyard bbq,bon appétitdairy freedinner,grill,leafy green,lobsterlunch,no sugar added,paleo,papayapeanut free,pescatariansaladsoy free,summertomato,tree nut freewheat/gluten-free,",9.16,"1443,9",9,"z1443,9",0.1975
+14617,1561,Grilled Pork Kebabs with Manchamantel Sauce ,4.05,1217,131,43,"banana,broilgourmet,herbmarinate,onion,pineapplepork",7.92,"1561,9",9,"z1561,9",0.2025
+14621,1565,Lebanese Chicken ,4.04,1495,128,103,"bake,bon appétit,chickenhealthylemon,low carb,low/no sugar,marinate,spice,",3.37,"1565,9",9,"z1565,9",0.202
+14668,1612,Tortillas with Grilled Adobo Pork and Pineapple ,4.12,929,33,73,"blenderbroil,citrus,food processorfruitgarlic,grill/barbecueherbmarinate,onion,pineapplepork",8.16,"1612,9",9,"z1612,9",0.20600000000000002
+14855,167,Pan-Roasted Quail with Port Sauce ,4.0,1226,89,80,"christmasfall,gamemaple syrupport,quail,red wine,roast,",8.87,"167,10",10,"z167,10",0.2
+14891,203,Corned Beef and Cabbage ,4.14,1150,68,92,"brisketcabbagecarrothouse & garden,onion,winter",5.22,"203,10",10,"z203,10",0.207
+15019,331,Country-Style Pork Ribs With Bourbon and Coke BBQ Sauce ,4.03,1364,75,103,grill/barbecueporkpork ribslow cooker,6.16,"331,10",10,"z331,10",0.2015
+15049,361,Wine-Braised Brisket of Beef with Caramelized Pearl Onions and Dried Apricots ,4.07,1087,56,74,"apricotbeefbraisebrisket,fallfruitleekonion,oscarsred wine,super bowl,thymewinter",7.31,"361,10",10,"z361,10",0.20350000000000001
+15068,380,Marmalade-Glazed Ham with Sweet Orange-Tea Sauce ,4.12,1179,111,57,"bake,bon appétiteasterhamjam or jelly,mustard,springtea",4.89,"380,10",10,"z380,10",0.20600000000000002
+15086,398,Garlic-Aioli Roasted Turkey with Lemon-Parsley Au Jus ,4.2,1090,142,50,"garliclemonpartyroastthanksgiving,turkey",2.4,"398,10",10,"z398,10",0.21000000000000002
+15106,418,Chicken and Spelt Soup with Greens ,4.21,1029,78,57,"broccoli,carrot,celerychickengreen beanhealthykale,kid-friendlysoup/stew",4.04,"418,10",10,"z418,10",0.21050000000000002
+15147,459,Salted Roast Turkey with Chipotle Glaze and Caramelized-Onion Gravy ,4.12,1177,133,59,"bon appétitdinner,fall,family reunionmarinate,onion,peanut free,roastsoy freethanksgivingtree nut free,turkey",5.91,"459,10",10,"z459,10",0.20600000000000002
+15157,469,Chicken and Couscous with a Punchy Relish ,3.85,1419,97,87,"chicken,couscousdinnerkid-friendlyno sugar addedpeanut free,soy freetree nut free,",5.39,"469,10",10,"z469,10",0.1925
+15309,621,Chipotle Fried Onion Rings ,4.03,714,45,37,"dairy free,fryhot pepperkosher,no sugar added,onion,oreganopeanut free,sidesoy freespicesuper bowltree nut free,",3.27,"621,10",10,"z621,10",0.2015
+15356,668,Baked Ham ,4.0,826,63,39,"bake,cherryfruit juiceham,mardi grasmustard,pineapple",6.92,"668,10",10,"z668,10",0.2
+15383,695,Wild Mushroom Soup with Vegetable Confetti ,4.13,1116,85,74,"bon appétit,fallhigh fibermushroom,soup/stewvegetable",4.07,"695,10",10,"z695,10",0.20650000000000002
+15404,716,Bacon-Wrapped Quail Stuffed with Goat Cheese ,4.08,965,63,76,"bacon,bakecheesefallgarlic,goat cheesegrill/barbecueherbpoultry,quail,stuffing/dressing,thanksgiving,winter",4.65,"716,10",10,"z716,10",0.20400000000000001
+15426,738,Todds Modern Day Brisket ,4.03,753,41,56,"advance prep required,bake,beefbrisketchillkosher for passovermeatpassover,wine,",7.32,"738,10",10,"z738,10",0.2015
+15491,803,Stout-Braised Short Ribs ,4.06,1431,50,121,"beef rib,beerbraise,gourmet,winter",2.7,"803,10",10,"z803,10",0.20299999999999999
+15521,833,Pan-Seared Petrale Sole with Local Winter Vegetables ,3.96,866,127,32,"fish,garliconion,vegetable",2.16,"833,10",10,"z833,10",0.198
+15528,840,Mustard- and Rosemary-Roasted Game Hens ,4.04,1413,99,108,"bon appétitdinnergamelow carb,mustard,poultry,roastrosemary,",8.56,"840,10",10,"z840,10",0.202
+15531,843,Chicken and Mushroom Marsala ,4.09,1113,121,63,"chickengourmetmarsalamushroomsauté,",2.53,"843,10",10,"z843,10",0.20450000000000002
+15588,900,Olive and Fennel Tuna Melts ,4.17,504,33,31,"broil,cheddar,fennelgourmetlunchmayonnaise,olive,quick & easy,sandwich,tuna,",8.41,"900,10",10,"z900,10",0.20850000000000002
+15613,925,Tarragon and Lemon Roast Chicken ,4.02,1086,88,73,"chicken,dairy freedinner,fennelhealthy,kid-friendly,kosher,low fat,paleo,peanut free,soy free,tarragon,tree nut freewheat/gluten-free,",9.59,"925,10",10,"z925,10",0.20099999999999998
+15796,1108,Lamb en Daube ,3.85,1223,71,99,"bacon,bake,house & gardenlambmarinateporkred wine,wine,winter",3.85,"1108,10",10,"z1108,10",0.1925
+15845,1157,"Grilled Pepper, Basil, and Turkey Roulade with Basil Sour Cream Sauce ",3.6,699,85,34,"basilbell pepperbon appétitgrill/barbecue,sour cream,summerturkey",4.46,"1157,10",10,"z1157,10",0.18000000000000002
+15902,1214,Turkey Tonnato with Potatoes and Green Beans ,3.95,1497,147,82,"gourmetgreen beanpotato,poultrysummerturkey",6.82,"1214,10",10,"z1214,10",0.1975
+15920,1232,Crispy Snapper Tacos with Avocado and Tropical-Fruit Salsa ,4.08,1415,64,124,"dinnerfish,gourmetpartysauté,winter",3.43,"1232,10",10,"z1232,10",0.20400000000000001
+15944,1256,Chicken and Artichoke Stew ,4.08,1385,106,88,"artichokebon appétit,chickengarliconionsauté,simmersoup/stewspringtomato,white wine,",5.08,"1256,10",10,"z1256,10",0.20400000000000001
+15989,1301,"Roasted Tofu with Shiitake, Soy, and Ginger Over Baby Spinach ",4.13,708,46,42,"garlic,leafy green,mushroomquick & easyroast,soyvegetable,vegetarian,",3.31,"1301,10",10,"z1301,10",0.20650000000000002
+16026,1338,Garlic and Herb Spatchcock Grilled Chicken ,4.11,1275,110,89,"chickengarlic,grill/barbecue,healthy,kid-friendly,rosemary,springsummer",4.16,"1338,10",10,"z1338,10",0.20550000000000002
+16051,1363,Sausages and Green Lentils with Tomato Salsa ,4.04,1404,62,93,"citrusdairy freedinnerherblentilnew years day,new years eve,no sugar addedpeanut freepepperpork,roast,sausage,soy free,tomato,tree nut free,vegetable,wheat/gluten-free,",7.66,"1363,10",10,"z1363,10",0.202
+16145,1457,Feta Cumin Corn Bread ,3.97,1429,43,63,"bakebreadcheesegourmet,herbsummer",7.1,"1457,10",10,"z1457,10",0.1985
+16169,1481,Soft-Shell Crabs with Wilted Spinach and Warm Tomato-Basil Vinaigrette ,4.01,691,57,41,"crabhigh fiber,leafy greenmarinate,sauté,seafood,shellfish,spinachspringsummer",3.51,"1481,10",10,"z1481,10",0.2005
+16338,18,Cider-Braised Pheasant with Pearl Onions and Apples ,4.0,1296,120,70,"apple,blender,braise,fallfruit,marinate,onion,orangetarragon,thanksgivingwhite wine,winter",7.16,"18,11",11,"z18,11",0.2
+16401,81,Gordons Pot Roast ,4.11,1179,85,69,"beefbraise,fallgingergourmetmushroom,portred wineroot vegetabletomato",6.88,"81,11",11,"z81,11",0.20550000000000002
+16471,151,Cornish Game Hens with Mustard and Rosemary ,4.07,1099,61,90,"bon appétitherb,mustard,poultry,roastrosemarywatercress,",5.74,"151,11",11,"z151,11",0.20350000000000001
+16646,326,Korean-Style Grain Bowls With Spicy Marinated Steak ,4.06,1251,67,50,"asparagus,cabbagechile pepper,eggflaming hot summergrains,steaksugar snap pea",7.02,"326,11",11,"z326,11",0.20299999999999999
+16688,368,Chicken Sauté Fine Herbes ,4.03,1072,79,78,"chicken,herbhouse & gardenpoultry,sauté,winter",5.31,"368,11",11,"z368,11",0.2015
+16689,369,Orange Chicken with Golden Raisins and Figs ,4.05,1115,70,57,"chickenfigfruit,marinateorange,raisin,",9.99,"369,11",11,"z369,11",0.2025
+16764,444,Brisket With Pomegranate-Walnut Sauce and Pistachio Gremolata ,4.13,1277,74,98,"beefbrisket,garlickosher,kosher for passover,mint,passover,pistachio,pomegranate juice,roast,spring,wheat/gluten-free,",2.0,"444,11",11,"z444,11",0.20650000000000002
+16883,563,Steaks with Blue Cheese and Toasted Walnut Butter ,4.07,1242,79,103,"anniversarybeefblue cheesebon appétit,cheesedairy,dinnerlow carbmeatno sugar added,nut,peanut free,quick & easysautésoy free,steak,sugar consciouswalnutwheat/gluten-free,",2.81,"563,11",11,"z563,11",0.20350000000000001
+16914,594,Coriander Pork Tenderloin with Carrot-Ginger Sauce ,4.01,996,143,40,"bon appétitcarrotdinner,fallginger,meatno sugar addedpeanut freeporkroot vegetable,soy freespicesugar conscioustree nut free,vegetable,wheat/gluten-free,winter",6.69,"594,11",11,"z594,11",0.2005
+16945,625,Horseradish and Parsley Stuffed Rib-Eye Roast ,3.91,1421,98,114,"bon appétitdairy freedinner,kosher,no sugar added,paleo,peanut free,roastsoy free,steak,sugar conscioustree nut freewheat/gluten-free,",8.11,"625,11",11,"z625,11",0.1955
+16948,628,Brooklyn Feijoada ,4.12,1240,91,65,"bacon,bean,beef,chickengarliconion,porksausage,sauté,",4.1,"628,11",11,"z628,11",0.20600000000000002
+17000,680,Barely Cooked Salmon with Parmesan Polenta and Mushroom Consommé ,4.07,704,50,48,"cornmeal,fish,mushroom,parmesanpoach,quick & easysalmonsauté,",6.93,"680,11",11,"z680,11",0.20350000000000001
+17018,698,Moo-Shu Pork ,4.09,984,37,43,"cabbage,cucumbereggginger,lunar new yearmarinate,mushroom,pork,sesamestir-fry,wok",9.26,"698,11",11,"z698,11",0.20450000000000002
+17042,722,"Potato, Leek, and Pea Pot Pie With Spinach-Arugula Salad ",4.16,843,44,48,"30 days of groceriesarugulabakeleek,peapot pie,potato,radishsausagespinach",4.71,"722,11",11,"z722,11",0.20800000000000002
+17120,800,Fish Soup with Aïoli Croutons ,3.95,1093,133,47,"bon appétitcarrot,fennel,fish,garlicleekmayonnaise,soup/stewtomato,white wine,winter",8.45,"800,11",11,"z800,11",0.1975
+17147,827,Grilled Chicken with Shredded Mesclun Salad ,4.12,1223,84,91,"basil,chickengourmet,grill/barbecueleafy green,limesaladshallot,summertomato",9.1,"827,11",11,"z827,11",0.20600000000000002
+17221,901,Parmesan Monkfish with Pastina Pasta and White Clam Sauce ,3.98,1378,133,68,"cheeseclam,fishparmesan,pastasautéshellfish,simmer,white wine,",7.12,"901,11",11,"z901,11",0.199
+17223,903,Grilled Salmon in Corn Husks ,3.99,1210,43,99,"backyard bbq,cornfish,garlicgrill,grill/barbecueherb,hot peppersalmon,summer",4.32,"903,11",11,"z903,11",0.1995
+17241,921,Smoked Cheddar-Jalapeño Ranch Meat Loaf ,4.01,856,67,61,"bacon,bake,beef,beef tenderloin,cheddar,cheesefalljalapeño,pork",5.49,"921,11",11,"z921,11",0.2005
+17384,1064,Thai Spareribs ,4.08,1453,76,118,"advance prep requiredbeefbon appétitbraisechilldinnermarinate,partysuper bowl,tailgating",8.44,"1064,11",11,"z1064,11",0.20400000000000001
+17497,1177,Grill-Roasted Whole Fish Stuffed with Fresh Herbs and Wrapped in Pancetta ,4.01,989,107,60,"backyard bbq,dairy freedinnerfish,grill,grill/barbecueherb,lunch,no sugar added,paleo,peanut freeporkseafood,soy freesugar conscious,summertarragonthyme,tree nut freewheat/gluten-free,",3.18,"1177,11",11,"z1177,11",0.2005
+17555,1235,Pink Chicken Sauté ,3.99,1182,80,90,"chickendairy,house & garden,sauté,winter",4.13,"1235,11",11,"z1235,11",0.1995
+17572,1252,Lebanese Lamb and Bean Stew ,4.07,1291,79,89,"beancinnamon,clove,gourmet,indianalamb,quick & easy,soup/stew",6.36,"1252,11",11,"z1252,11",0.20350000000000001
+17660,1340,Poached Chicken with Ginger and Scallion Sauce ,4.2,1124,75,87,"chickenginger,lunar new year,onion,poachwinter",2.04,"1340,11",11,"z1340,11",0.21000000000000002
+17740,1420,Agave-Glazed Turkey Breast with Sherry Gravy ,4.18,1016,133,43,"dinner,fall,fortified wine,gourmetonion,poultry,roast,sherry,thanksgiving,turkey",8.56,"1420,11",11,"z1420,11",0.209
+17812,1492,Poached Salmon with Tarragon Sauce and Fingerling Potatoes ,4.03,867,47,58,"gourmetmayonnaiseparsley,poach,potatosalmon,tarragon,white wine,",8.97,"1492,11",11,"z1492,11",0.2015
+17824,1504,Braised Veal Breast with Potato-and-Onion Stuffing ,4.06,1299,90,89,"braise,christmas,christmas evecitrus,dill,easter,gourmet,herb,onionpotato,veal",7.16,"1504,11",11,"z1504,11",0.20299999999999999
+17886,1566,Spiced Herb Marinade for Fish ,4.09,594,42,45,"bakecilantrogarliclemon,marinate,parsleysalmon,",6.94,"1566,11",11,"z1566,11",0.20450000000000002
+17926,1606,"Our Favorite Lasagna With Sausage, Spinach, and Three Cheeses ",4.05,721,45,43,"bake,kid-friendly,noodle,spinach",8.58,"1606,11",11,"z1606,11",0.2025
+17939,1619,San Francisco Crab Meatball Chowder ,4.07,1001,72,60,"crabdairyeggfryshellfish,summer",7.89,"1619,11",11,"z1619,11",0.20350000000000001
+17966,14,Chili Meatballs in Black Bean and Tomato Sauce ,4.09,1053,53,60,"bean,dinner,ground beef,kid-friendlysausage",4.65,"14,12",12,"z14,12",0.20450000000000002
+17990,38,"Braised Veal Breast with Herbs, Pernod, and Tomatoes ",4.25,1454,103,96,"bon appétitbraisecitrusfish,garlic,herbolive,onionpernodsauté,tomatoveal,white wine,",9.14,"38,12",12,"z38,12",0.21250000000000002
+17999,47,Deep-Fried Turkey with Herbs ,3.94,506,38,37,"deep-fry,dinnerherb,thanksgiving,turkey",9.45,"47,12",12,"z47,12",0.197
+18063,111,Mustard Seed-Crusted Salmon with Mustard Cream Sauce ,4.12,529,38,38,"milk/cream,mustardquick & easysalmonsauté,seafood,white wine,",2.88,"111,12",12,"z111,12",0.20600000000000002
+18094,142,Venison Chili with Snowcap Beans ,4.19,876,81,47,"bean,bell pepper,onion,porksausagesoup/stew,super bowl,tailgatingtomatovenisonwinter",7.26,"142,12",12,"z142,12",0.20950000000000002
+18135,183,Coconut Barbecued Ribs ,4.26,1478,74,118,"bon appétit,broilgrill,grill/barbecuemarinatepork rib,steam,",8.51,"183,12",12,"z183,12",0.213
+18390,438,Nachos ,4.0,727,32,46,"appetizerbeancheese,kid-friendly,lunchquick & easysugar conscioustortillas,weelicious",6.34,"438,12",12,"z438,12",0.2
+18395,443,Turkey Mole ,3.83,1166,133,60,"chocolate,fall,herbhouse & garden,nut,olive,onionsauce,turkey",4.76,"443,12",12,"z443,12",0.1915
+18557,605,Loin of Pork with Prunes ,4.13,1229,113,72,"fallfruit,house & gardennutmeg,pork tenderloinpruneroast,thyme",7.98,"605,12",12,"z605,12",0.20650000000000002
+18567,615,Coriander Chicken Thighs with Miso-Glazed Root Vegetables ,4.11,976,54,63,"bake,carrot,chicken,dairy freedinnerhoneykid-friendly,kosher,parsnippeanut freequick and healthysoy sauce,tree nut free,turnip",6.02,"615,12",12,"z615,12",0.20550000000000002
+18598,646,Veal Scallops Oporto ,3.8,1373,133,84,"beef,dairy,fortified winehouse & gardenmilk/creamport,sauté,veal,wine,winter",2.8,"646,12",12,"z646,12",0.19
+18641,689,Roast Turkey with Corn Bread and Kale Stuffing and Paprika Gravy ,4.07,1418,144,80,"bakefallgourmetkaleonionthanksgiving,turkey",3.97,"689,12",12,"z689,12",0.20350000000000001
+18661,709,"Crispy Chicken Stew With Lemon, Artichokes, Capers, and Olives ",4.0,676,42,48,"artichoke,chickenharpercollinshealthy,kid-friendlyolivesoup/stew",6.73,"709,12",12,"z709,12",0.2
+18671,719,3-Ingredient Thanksgiving Turkey With Orange and Sage ,4.0,974,122,48,"3-ingredient recipesorange,roastsagethanksgiving,turkey",8.11,"719,12",12,"z719,12",0.2
+18689,737,Provencal Sauteed Chicken ,4.03,1443,100,106,"bon appétit,chicken,olivepork,sauté,tomato",5.13,"737,12",12,"z737,12",0.2015
+18791,839,Redeye Braised Lamb Shanks and Beans ,4.17,1295,104,73,"bacon,bean,bell pepperbraisecarrotcoffee,garlicgourmet,herblamb,onion,winter",4.52,"839,12",12,"z839,12",0.20850000000000002
+18914,962,Chicken Sauté with White Wine ,4.02,1072,79,78,"chicken,house & gardenpoultry,sauté,spring,white winewine,",9.63,"962,12",12,"z962,12",0.20099999999999998
+19009,1057,Jenga Ribs ,4.12,1377,76,114,"bake,bon appétitpork rib,spicesuper bowl,",8.87,"1057,12",12,"z1057,12",0.20600000000000002
+19032,1080,Boneless Leg of Lamb Stuffed with Swiss Chard and Feta ,4.12,1438,118,98,"chardeasterfeta,garlicgourmethigh fiber,lambred wine,roast,vegetable",3.12,"1080,12",12,"z1080,12",0.20600000000000002
+19098,1146,Trout Grenobloise ,4.08,760,71,40,"caperslemon,pan-fry,quick & easy,trout",4.96,"1146,12",12,"z1146,12",0.20400000000000001
+19106,1154,Quick Poached Salmon With Speedy Rat-Atat-A-Touille ,3.94,607,49,38,"dairy freedinner,eggplant,fish,harpercollins,no sugar addedpeanut free,pescatarian,poach,salmon,seafood,soy freetree nut freewheat/gluten-freezucchini,",2.01,"1154,12",12,"z1154,12",0.197
+19188,1236,Chicken Cacciatora with Fusilli ,3.88,1483,94,76,"chicken,fish,gourmet,kid-friendly,mushroompastasauté,tomato",5.93,"1236,12",12,"z1236,12",0.194
+19211,1259,"Game Hens with Honey, Vinegar and Spice Glaze ",4.03,1439,107,101,"anise,bon appétit,cinnamonhealthy,honeypoultry,roastspicevinegar,",9.55,"1259,12",12,"z1259,12",0.2015
+19268,1316,Pintade au Champagne ,3.77,1077,86,75,"christmasdairy,gamehouse & gardenporkpoultry,roast,winter",6.09,"1316,12",12,"z1316,12",0.1885
+19269,1317,Chilaquiles with Turkey and Roasted Tomatillo Salsa ,4.05,1474,42,130,"bakecheesegourmettomatillotortillas,turkey",9.39,"1317,12",12,"z1317,12",0.2025
+19329,1377,Miriam Reichls Corned Beef Ham ,4.1,675,45,45,"beef,mustardpeach,spring",6.77,"1377,12",12,"z1377,12",0.205
+19336,1384,"Mussels with Tomatoes, Herbs and Garlic (Moules Provençale) ",4.1,1273,129,38,"anniversary,appetizer,dairy freedinner,fallgarlic,herbmusselpeanut free,pescatarian,seafood,shellfishsoy free,tomato,tree nut freewheat/gluten-free,winter",9.01,"1384,12",12,"z1384,12",0.205
+19357,1405,Pimiento Cheeseburgers ,4.07,771,49,52,"backyard bbq,cheddardinnerfathers day,grill,grill/barbecue,ground beefhot pepperlunchmayonnaise,peanut free,soy freesugar conscious,tailgating,tree nut free,",7.62,"1405,12",12,"z1405,12",0.20350000000000001
+19447,1495,Braised-Lamb Shank Shepherds Pie with Creamed Spinach ,4.1,1186,86,66,"bake,braise,gourmet,lambleafy green,potato,spinachwinter",2.12,"1495,12",12,"z1495,12",0.205
+19504,1552,Nicaraguan-Style Steak ,3.83,1168,81,92,"beefbon appétitcitrusmarinate,wheat/gluten-free,",8.27,"1552,12",12,"z1552,12",0.1915
