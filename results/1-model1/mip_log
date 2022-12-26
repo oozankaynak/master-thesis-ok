@@ -1,0 +1,142 @@
+1671645301.0966446
+creating main_df
+1671645301.1405728
+creating mipmodel
+Set parameter Username
+Academic license - for non-commercial use only - expires 2023-06-15
+1671645301.301633
+creating decision variables
+1671645301.8699026
+creating objective function
+Set parameter TimeLimit to value 3600
+Set parameter NodeLimit to value 1073741824
+Set parameter SolutionLimit to value 1073741824
+Set parameter IntFeasTol to value 1e-06
+Set parameter Method to value 3
+Set parameter MIPGap to value 0.01
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 53666 rows, 19584 columns and 512991 nonzeros
+Model fingerprint: 0xc7b3d343
+Variable types: 0 continuous, 19584 integer (19584 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+01]
+  Objective range  [6e-03, 3e-02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 37665 rows and 2019 columns
+Presolve time: 1.00s
+Presolved: 16001 rows, 17565 columns, 307260 nonzeros
+Variable types: 0 continuous, 17565 integer (17565 binary)
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Root barrier log...
+
+Ordering time: 0.98s
+
+Barrier statistics:
+ AA' NZ     : 7.706e+05
+ Factor NZ  : 3.868e+06 (roughly 50 MB of memory)
+ Factor Ops : 3.323e+09 (less than 1 second per iteration)
+ Threads    : 2
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   3.73357980e+03 -0.00000000e+00  3.34e+05 1.73e-03  1.34e+01     3s
+   1   9.84883183e+02  1.55359902e+04  8.77e+04 1.70e-02  3.72e+00     3s
+   2   1.25857798e+02  1.43230137e+04  1.08e+04 2.38e-03  6.51e-01     3s
+   3   3.08749346e+01  3.73035818e+03  2.22e+03 2.90e-04  1.31e-01     3s
+   4   1.65530915e+01  1.26077513e+03  9.45e+02 4.96e-05  4.67e-02     3s
+   5   9.21275935e+00  5.04127088e+02  2.93e+02 1.05e-05  1.57e-02     4s
+   6   6.19164940e+00  1.23029897e+02  2.44e+01 0.00e+00  2.59e-03     4s
+   7   6.05563219e+00  2.91453006e+01  3.77e-11 0.00e+00  4.55e-04     4s
+   8   6.27880470e+00  1.60011360e+01  3.66e-11 0.00e+00  1.91e-04     4s
+   9   6.55902502e+00  1.22253870e+01  2.84e-11 0.00e+00  1.12e-04     4s
+  10   6.89906070e+00  1.05369395e+01  2.53e-11 0.00e+00  7.16e-05     5s
+  11   7.11551965e+00  9.91027212e+00  1.85e-11 0.00e+00  5.50e-05     5s
+  12   7.35139969e+00  9.49175573e+00  1.58e-11 0.00e+00  4.21e-05     5s
+  13   7.54715926e+00  9.11923919e+00  1.67e-11 0.00e+00  3.09e-05     5s
+  14   7.72552870e+00  8.84260895e+00  2.03e-11 0.00e+00  2.20e-05     6s
+  15   7.80907281e+00  8.75061077e+00  2.02e-11 0.00e+00  1.85e-05     6s
+  16   7.95754794e+00  8.68059645e+00  2.15e-11 0.00e+00  1.42e-05     6s
+
+Barrier performed 16 iterations in 5.97 seconds (4.80 work units)
+Barrier solve interrupted - model solved by another algorithm
+
+
+Solved with dual simplex
+
+Root relaxation: objective 8.422551e+00, 13252 iterations, 4.78 seconds (4.91 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    8.42255    0  468          -    8.42255      -     -    6s
+     0     0    8.42233    0  482          -    8.42233      -     -   16s
+H    0     0                       5.8545278    8.42233  43.9%     -   26s
+     0     0    8.42233    0  480    5.85453    8.42233  43.9%     -   34s
+H    0     0                       8.0465556    8.42233  4.67%     -   74s
+     0     2    8.42233    0  480    8.04656    8.42233  4.67%     -   74s
+     1     4    8.42233    1  478    8.04656    8.42233  4.67%   458   78s
+     3     8    8.42233    2  471    8.04656    8.42233  4.67%   447   84s
+     7    12    8.42233    3  441    8.04656    8.42233  4.67%   640   86s
+    23    29    8.42233    6  422    8.04656    8.42233  4.67%   602   90s
+H   28    36                       8.0568889    8.42233  4.54%   675   93s
+H   30    36                       8.1004444    8.42233  3.97%   681   93s
+    35    60    8.42233    8  472    8.10044    8.42233  3.97%   793   97s
+    59   107    8.42232   11  484    8.10044    8.42233  3.97%   817  106s
+H   60   107                       8.1065000    8.42233  3.90%   803  106s
+H   81   107                       8.1083056    8.42233  3.87%   842  106s
+   106   217    8.42209   18  456    8.10831    8.42233  3.87%   850  128s
+H  118   217                       8.1132222    8.42233  3.81%   843  128s
+H  168   217                       8.1384444    8.42233  3.49%   829  128s
+   216   258    8.42184   32  455    8.13844    8.42233  3.49%   822  168s
+H  225   258                       8.1821667    8.42233  2.94%   814  168s
+H  248   258                       8.2017222    8.42233  2.69%   810  168s
+   257   707    8.42180   39  422    8.20172    8.42233  2.69%   812  226s
+H  377   707                       8.2017222    8.42233  2.69%   741  226s
+H  614   707                       8.2053889    8.42233  2.64%   677  226s
+H  706  1282                       8.2063333    8.42233  2.63%   689  265s
+H  849  1282                       8.2075556    8.42233  2.62%   616  265s
+H 1020  1282                       8.2139167    8.42233  2.54%   551  265s
+  1281  1884    8.40849  182  317    8.21392    8.42233  2.54%   507  293s
+H 1893  2313                       8.2158056    8.42233  2.51%   387  315s
+H 2295  2313                       8.2233333    8.42233  2.42%   331  315s
+  2334  2874    8.42233    8  441    8.22333    8.42233  2.42%   333  337s
+  2895  3314    8.42229   29  424    8.22333    8.42233  2.42%   301  357s
+  3351  3730    8.42219   43  447    8.22333    8.42233  2.42%   291  377s
+  3767  4205    8.42178   59  398    8.22333    8.42233  2.42%   285  400s
+H 4242  4437                       8.2391389    8.42233  2.22%   277  424s
+H 4354  4286                       8.3373611    8.42233  1.02%   280  424s
+  4483  4626    8.42074   81  392    8.33736    8.42233  1.02%   275  445s
+H 4849  4527                       8.3510556    8.42233  0.85%   281  455s
+  4850  4528    8.39565  281  480    8.35106    8.42233  0.85%   281  462s
+
+Explored 4850 nodes (1377774 simplex iterations) in 462.30 seconds (608.22 work units)
+Thread count was 8 (of 8 available processors)
+
+Solution count 10: 8.35106 8.33736 8.23914 ... 8.20172
+
+Optimal solution found (tolerance 1.00e-02)
+Best objective 8.351055555556e+00, best bound 8.422327374286e+00, gap 0.8534%
+optimal solution cost 8.351055555555556 found
+solution:
+         ix                                              title  ...  dec_var  period
+38       38  Braised Veal Breast with Herbs, Pernod, and To...  ...     38,1       1
+47       47                      Deep-Fried Turkey with Herbs   ...     47,1       1
+142     142                  Venison Chili with Snowcap Beans   ...    142,1       1
+228     228                       Lebanese Lamb and Bean Stew   ...    228,1       1
+331     331  Country-Style Pork Ribs With Bourbon and Coke ...  ...    331,1       1
+...     ...                                                ...  ...      ...     ...
+19352  1400         Boursin and Bacon on Cracked Pepper Bread   ...  1400,12      12
+19513  1561       Grilled Pork Kebabs with Manchamantel Sauce   ...  1561,12      12
+19535  1583                     Meat Loaf With Mushroom Gravy   ...  1583,12      12
+19555  1603           Grilled Poussins with Lemon Herb Butter   ...  1603,12      12
+19582  1630                       Chinese Barbecued Spareribs   ...  1630,12      12
+
+[360 rows x 10 columns]
+
+Process finished with exit code 0
+

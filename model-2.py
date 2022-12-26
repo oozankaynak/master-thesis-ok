@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np
 from mip import *
 import time
+import logging
+
+logger = logging.getLogger('miplog')
 
 recipes_df = pd.read_csv('cleaned_db.csv')
 period_number = 12
@@ -55,20 +58,16 @@ xij = [mipmodel.add_var(name=main_df.iloc[row, 8], var_type=BINARY) for row in m
 zij = [mipmodel.add_var(name='z' + str(main_df.iloc[row, 8]), var_type=CONTINUOUS) for row in main_df.index]
 wj = [mipmodel.add_var(name='w' + str(item), var_type=CONTINUOUS) for item in period_list]
 r = 5
-7
+n_assigned = 60
+
 
 # add objective function profit * decvar
 print(time.time())
 print('creating objective function')
 #max ∑ i∈I j∈J pij xij
-mipmodel.objective = maximize(xsum(list(main_df['profit'])[i] * xij[i] for i in main_df.index)/(30*len(period_list)))
+mipmodel.objective = maximize(xsum(list(main_df['profit'])[i] * xij[i] for i in main_df.index)/(n_assigned*len(period_list)))
 
 #CONSTRAINTS##
-
-# #Every recipe can appear at most given value
-# for recipe in unique_recipe_id_list:
-#     selected_recipes = main_df[main_df['ix'] == recipe]
-#     mipmodel += sum(dec_var[i] for i in selected_recipes.index) <= 4
 
 #∑j=j xij ≤ 1, ∀i ∈ I, ∀j ∈ J\{11, 12}
 #CONS 1 : repeat all recipes on given interval:
@@ -82,43 +81,38 @@ for period in period_list[:-repetition_interval]:
         mipmodel += sum(xij[i] for i in selected_recipes.index) <= 1
 
 
-#∑i∈Ixij = 30, ∀j ∈ J
-#Assign 30 recipe per period
+#∑i∈Ixij = n, ∀j ∈ J
+#Assign n recipe per period
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += sum(xij[i] for i in selected_recipes.index) == 30
+    mipmodel += sum(xij[i] for i in selected_recipes.index) == n_assigned
 
-#∑i∈I xij × Caloriei 30 >= 1000, ∀j ∈ J
+#∑i∈I xij × Caloriei n >= 1000, ∀j ∈ J
 #Average calorie per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['calories'])[i]*xij[i] for i in selected_recipes.index)/30 >= 1000
+    mipmodel += xsum(list(main_df['calories'])[i]*xij[i] for i in selected_recipes.index)/n_assigned >= 890
 
 #Average protein per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['protein'])[i]*xij[i] for i in selected_recipes.index)/30 >= 80
+    mipmodel += xsum(list(main_df['protein'])[i]*xij[i] for i in selected_recipes.index)/n_assigned >= 55
 
 #Average fat per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['fat'])[i]*xij[i] for i in selected_recipes.index)/30 >= 70
+    mipmodel += xsum(list(main_df['fat'])[i]*xij[i] for i in selected_recipes.index)/n_assigned >= 57
 
-# #Average rating per period greater than value
-# for period in period_list:
-#     selected_recipes = main_df[main_df['period'] == period]
-#     mipmodel += xsum(list(main_df['rating'])[i]*xij[i] for i in selected_recipes.index)/30 >= 4
-
-#robust rating  4*30
+#robust rating  4*n
 for index_p, period in enumerate(period_list):
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['rating'])[i]*xij[i] for i in selected_recipes.index) - r*wj[index_p] - xsum(zij[i] for i in selected_recipes.index) >= 120
+    mipmodel += xsum(list(main_df['rating'])[i]*xij[i] for i in selected_recipes.index) - r*wj[index_p] - xsum(zij[i] for i in selected_recipes.index) >= n_assigned*4
     for index_r, recipe in selected_recipes.iterrows():
         mipmodel += wj[index_p] + zij[index_r] >= recipe['dijmax'] * xij[index_r]
 for w in wj:
-    mipmodel += w >=0
+    mipmodel += w >= 0
 for z in zij:
-    mipmodel += z >=0
+    mipmodel += z >= 0
 
 
 #No summer recipes allowed in winter
@@ -153,7 +147,7 @@ mipmodel.write('model.lp')
 
 #OPTIMIZE#
 mipmodel.max_mip_gap = 0.01
-status = mipmodel.optimize(max_seconds=3600)
+status = mipmodel.optimize(max_seconds=7200)
 
 #RESULT#
 if status == OptimizationStatus.OPTIMAL:

@@ -2,6 +2,14 @@ import pandas as pd
 import numpy as np
 from mip import *
 import time
+import logging
+
+logger = logging.getLogger('mylog')
+logging.basicConfig(filename="std.log",
+					format='%(asctime)s %(message)s',
+					filemode='w')
+print = logger.info
+
 
 recipes_df = pd.read_csv('cleaned_db.csv')
 period_number = 12
@@ -74,22 +82,22 @@ for period in period_list:
 #Average calorie per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['calories'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 1000
+    mipmodel += xsum(list(main_df['calories'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 890
 
 #Average protein per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['protein'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 80
+    mipmodel += xsum(list(main_df['protein'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 55
 
 #Average fat per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['fat'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 70
+    mipmodel += xsum(list(main_df['fat'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 57
 
 #Average rating per period greater than value
 for period in period_list:
     selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['rating'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 4
+    mipmodel += xsum(list(main_df['rating'])[i]*dec_var[i] for i in selected_recipes.index) >= 30*4.05
 
 #No summer recipes allowed in winter
 winter_period = [12,1,2]
@@ -116,7 +124,7 @@ for period in period_list:
     selected_period = main_df[main_df['period'] == period]
     for tag in unique_list_tags:
         selected_recipes = selected_period[selected_period['tags'].str.contains(tag)]
-        mipmodel += sum(dec_var[i] for i in selected_recipes.index) <= 5
+        mipmodel += sum(dec_var[i] for i in selected_recipes.index) <= 6
 
 mipmodel.write('model.mps')
 mipmodel.write('model.lp')
