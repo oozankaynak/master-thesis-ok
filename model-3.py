@@ -9,7 +9,7 @@ class meal_allocation():
     def __init__(self):
         self.logger = logging.getLogger('miplog')
         self.recipes_df = pd.read_csv('cleaned_db.csv')
-        self.period_number = 6
+        self.period_number = 12
         self.deviation_percentage = 0.05
         self.r = 15
         self.n_assigned = 30
@@ -44,10 +44,10 @@ class meal_allocation():
         self.constraint_3(890)
         self.constraint_4(55)
         self.constraint_5(57)
-        self.constraint_6(4.2)
+        self.constraint_6_worst_case(4*(1-(self.deviation_percentage/(self.n_assigned/self.r))))
         #self.constraint_6_robust(3.95,self.r)
-        # self.constraint_7()
-        # self.constraint_8()
+        self.constraint_7()
+        self.constraint_8()
         self.constraint_9(6)
 
         self.mipmodel.write('model.mps')
@@ -93,8 +93,8 @@ class meal_allocation():
         self.constraint_5(57)
         #self.constraint_6(4)
         self.constraint_6_robust(4,self.r)
-        # self.constraint_7()
-        # self.constraint_8()
+        self.constraint_7()
+        self.constraint_8()
         self.constraint_9(6)
         self.mipmodel.write('model2.mps')
         self.mipmodel.write('model2.lp')
@@ -134,6 +134,7 @@ class meal_allocation():
 
         main_df = pd.concat(period_df_list)
         main_df = main_df.reset_index(drop = True)
+        main_df['rating_worst_case'] = main_df['rating']*(1-self.deviation_percentage)
         return(main_df)
     def robust_variables(self,main_df,r,deviation_percentage):
         main_df['zij'] = 'z' + main_df['dec_var']
@@ -164,10 +165,10 @@ class meal_allocation():
         for period in self.period_list:
             selected_recipes = self.main_df[self.main_df['period'] == period]
             self.mipmodel += xsum(list(self.main_df['fat'])[i] * self.xij[i] for i in selected_recipes.index) / self.n_assigned >= target_fat
-    def constraint_6(self,target_rating):
+    def constraint_6_worst_case(self,target_rating):
         for period in self.period_list:
             selected_recipes = self.main_df[self.main_df['period'] == period]
-            self.mipmodel += xsum(list(self.main_df['rating'])[i] * self.xij[i] for i in selected_recipes.index) >= self.n_assigned * target_rating
+            self.mipmodel += xsum(list(self.main_df['rating_worst_case'])[i] * self.xij[i] for i in selected_recipes.index) >= self.n_assigned * target_rating
     def constraint_6_robust(self,target_rating,r):
         for index_p, period in enumerate(self.period_list):
             selected_recipes = self.main_df[self.main_df['period'] == period]
@@ -204,7 +205,6 @@ class meal_allocation():
                 self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) <= target_tags
 
 meal_allocation()
-
 
 
 

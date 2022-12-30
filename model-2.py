@@ -9,9 +9,9 @@ class meal_allocation():
     def __init__(self):
         self.logger = logging.getLogger('miplog')
         self.recipes_df = pd.read_csv('cleaned_db.csv')
-        self.period_number = 6
+        self.period_number = 12
         self.deviation_percentage = 0.05
-        self.r = 5
+        self.r = 15
         self.n_assigned = 30
 
         #prepare main dataframe and list of periods
@@ -49,9 +49,9 @@ class meal_allocation():
         self.constraint_4(55)
         self.constraint_5(57)
         #self.constraint_6(4)
-        self.constraint_6_robust(3.80,self.r)
-        #self.constraint_7()
-        #self.constraint_8()
+        self.constraint_6_robust(4,self.r)
+        self.constraint_7()
+        self.constraint_8()
         self.constraint_9(6)
 
         self.mipmodel.write('model.mps')
