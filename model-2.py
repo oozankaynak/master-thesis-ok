@@ -4,15 +4,15 @@ from mip import *
 import time
 import logging
 
-class meal_allocation():
+class model_2():
 
     def __init__(self):
         self.logger = logging.getLogger('miplog')
         self.recipes_df = pd.read_csv('cleaned_db.csv')
         self.period_number = 12
         self.deviation_percentage = 0.05
-        self.r = 15
-        self.n_assigned = 30
+        self.r = 30
+        self.n_assigned = 60
 
         #prepare main dataframe and list of periods
         print(time.time())
@@ -49,13 +49,13 @@ class meal_allocation():
         self.constraint_4(55)
         self.constraint_5(57)
         #self.constraint_6(4)
-        self.constraint_6_robust(4,self.r)
+        self.constraint_6_robust(3.95,self.r)
         self.constraint_7()
         self.constraint_8()
-        self.constraint_9(6)
+        self.constraint_9(12)
 
-        self.mipmodel.write('model.mps')
-        self.mipmodel.write('model.lp')
+        self.mipmodel.write('model2.mps')
+        self.mipmodel.write('model2.lp')
 
         #OPTIMIZE#
         self.mipmodel.max_mip_gap = 0.01
@@ -76,7 +76,7 @@ class meal_allocation():
                   # print('{} : {}'.format(v.name, v.x))
                   list_dec_var_solution.append(v.name)
             result_df = self.main_df[self.main_df['dec_var'].isin(list_dec_var_solution)]
-            result_df.to_csv('result')
+            result_df.to_csv('result_model2')
             print(result_df)
 
 
@@ -129,7 +129,7 @@ class meal_allocation():
     def constraint_6(self,target_rating):
         for period in self.period_list:
             selected_recipes = self.main_df[self.main_df['period'] == period]
-            self.mipmodel += xsum(list(self.main_df['rating'])[i] * self.xi[i] for i in selected_recipes.index) >= self.n_assigned * target_rating
+            self.mipmodel += xsum(list(self.main_df['rating'])[i] * self.xij[i] for i in selected_recipes.index) >= self.n_assigned * target_rating
     def constraint_6_robust(self,target_rating,r):
         for index_p, period in enumerate(self.period_list):
             selected_recipes = self.main_df[self.main_df['period'] == period]
@@ -165,7 +165,7 @@ class meal_allocation():
                 selected_recipes = selected_period[selected_period['tags'].str.contains(tag)]
                 self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) <= target_tags
 
-meal_allocation()
+model_2()
 
 
 

@@ -4,7 +4,7 @@ from mip import *
 import time
 import logging
 
-class meal_allocation():
+class model_3():
 
     def __init__(self):
         self.logger = logging.getLogger('miplog')
@@ -50,8 +50,8 @@ class meal_allocation():
         self.constraint_8()
         self.constraint_9(6)
 
-        self.mipmodel.write('model.mps')
-        self.mipmodel.write('model.lp')
+        self.mipmodel.write('model_3_1.mps')
+        self.mipmodel.write('model_3_1.lp')
 
         #OPTIMIZE#
         self.mipmodel.max_mip_gap = 0.01
@@ -96,8 +96,8 @@ class meal_allocation():
         self.constraint_7()
         self.constraint_8()
         self.constraint_9(6)
-        self.mipmodel.write('model2.mps')
-        self.mipmodel.write('model2.lp')
+        self.mipmodel.write('model__2.mps')
+        self.mipmodel.write('model_3_2.lp')
         #OPTIMIZE#
         self.mipmodel.max_mip_gap = 0.01
         self.mipmodel.start = list_dec_var_start
@@ -116,7 +116,7 @@ class meal_allocation():
                   # print('{} : {}'.format(v.name, v.x))
                   list_dec_var_solution.append(v.name)
             result_df = self.main_df[self.main_df['dec_var'].isin(list_dec_var_solution)]
-            result_df.to_csv('result')
+            result_df.to_csv('result_model3')
             print(result_df)
     def prepare_df (self,recipes_df,period_number):
         self.period_list = []
@@ -204,7 +204,7 @@ class meal_allocation():
                 selected_recipes = selected_period[selected_period['tags'].str.contains(tag)]
                 self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) <= target_tags
 
-meal_allocation()
+model_3()
 
 
 

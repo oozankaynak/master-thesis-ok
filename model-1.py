@@ -4,155 +4,152 @@ from mip import *
 import time
 import logging
 
-logger = logging.getLogger('mylog')
-logging.basicConfig(filename="std.log",
-					format='%(asctime)s %(message)s',
-					filemode='w')
-print = logger.info
+
+class model_1():
+
+    def __init__(self):
+        logging.basicConfig(filename="mip_log.txt")
+        log = logging.getLogger('')
+        log.setLevel(logging.INFO)
+
+        self.logger = logging.getLogger('miplog')
+        self.recipes_df = pd.read_csv('cleaned_db.csv')
+        self.period_number = 12
+        self.deviation_percentage = 0.05
+        self.n_assigned = 60
+
+        #prepare main dataframe and list of periods
+        print('creating main_df')
+        self.main_df = self.prepare_df(self.recipes_df,self.period_number)
+        #lists
+        self.unique_recipe_id_list = self.main_df['ix'].unique()
+        self.period_list = self.main_df['period'].unique()
+        #Create mipmodel, set solver
+        print('creating mipmodel')
+        self.mipmodel = Model(sense = MAXIMIZE, solver_name = 'GRB')
+        self.mipmodel.store_search_progress_log = True
+
+        #add binary decision variables, recipe x in period y or not
+        print('creating decision variables')
+        self.xij = [self.mipmodel.add_var(name=self.main_df.iloc[row, 8], var_type=BINARY) for row in self.main_df.index]
 
 
-recipes_df = pd.read_csv('cleaned_db.csv')
-period_number = 12
+        # add objective function profit * decvar
+        print('creating objective function')
+        #max ∑ i∈I j∈J pij xij
+        self.mipmodel.objective = maximize(xsum(list(self.main_df['profit'])[i] * self.xij[i] for i in self.main_df.index)/(self.n_assigned*len(self.period_list)))
 
-def prepare_df (recipes_df,period_number):
-    period_list = []
-    for period in range (1,period_number + 1):
-        period_list.append(period)
-    period_df_list = []
-    recipes_df['dec_var'] = ''
-    recipes_df['period'] = ''
+                #CONSTRAINTS##
+        self.constraint_1(2)
+        self.constraint_2(self.n_assigned)
+        self.constraint_3(890)
+        self.constraint_4(55)
+        self.constraint_5(57)
+        self.constraint_6(3.95)
+        self.constraint_7()
+        self.constraint_8()
+        self.constraint_9(12)
 
-    for period in period_list:
-        period_df = globals()['period'+str(period)]  = recipes_df.copy()
-        period_df['period'] = period_df['period'].replace([''],period)
-        period_df['dec_var'] = period_df['ix'].astype(str) + ',' + period_df['period'].astype(str)
-        period_df_list.append(period_df)
+        self.mipmodel.write('model_1.mps')
+        self.mipmodel.write('model_1.lp')
 
-    main_df = pd.concat(period_df_list)
-    main_df = main_df.reset_index(drop = True)
-    return(main_df)
+        #OPTIMIZE#
+        self.mipmodel.max_mip_gap = 0.01
+        status = self.mipmodel.optimize(max_seconds=7200)
+        progress = self.mipmodel.search_progress_log
+        try:
+            progress.write('log.txt')
+        except:
+            print('error line 63')
 
-#prepare main dataframe and list of periods
-print(time.time())
-print('creating main_df')
-main_df = prepare_df(recipes_df,period_number)
-period_list = main_df['period'].unique()
+        #RESULT#
+        if status == OptimizationStatus.OPTIMAL:
+            print('optimal solution cost {} found'.format(self.mipmodel.objective_value))
+        elif status == OptimizationStatus.FEASIBLE:
+            print('sol.cost {} found, best possible: {}'.format(self.mipmodel.objective_value, self.mipmodel.objective_bound))
+        elif status == OptimizationStatus.NO_SOLUTION_FOUND:
+            print('no feasible solution found, lower bound is: {}'.format(self.mipmodel.objective_bound))
+        if status == OptimizationStatus.OPTIMAL or status == OptimizationStatus.FEASIBLE:
+            print('solution:')
+            list_dec_var_solution = []
+            for v in self.mipmodel.vars:
+               if abs(v.x) > 1e-6: # only printing non-zeros
+                  # print('{} : {}'.format(v.name, v.x))
+                  list_dec_var_solution.append(v.name)
+            result_df = self.main_df[self.main_df['dec_var'].isin(list_dec_var_solution)]
+            result_df.to_csv('result_model1')
+            print(result_df)
+    def prepare_df (self,recipes_df,period_number):
+        self.period_list = []
+        for period in range (1,period_number + 1):
+            self.period_list.append(period)
+        period_df_list = []
+        recipes_df['dec_var'] = ''
+        recipes_df['period'] = ''
 
-#Create mipmodel, set solver
-print(time.time())
-print('creating mipmodel')
-mipmodel = Model(sense = MAXIMIZE, solver_name = 'GRB')
+        for period in self.period_list:
+            period_df = globals()['period'+str(period)]  = recipes_df.copy()
+            period_df['period'] = period_df['period'].replace([''],period)
+            period_df['dec_var'] = period_df['ix'].astype(str) + ',' + period_df['period'].astype(str)
+            period_df_list.append(period_df)
 
-#add binary decision variables, recipe x in period y or not
-print(time.time())
-print('creating decision variables')
-dec_var = [mipmodel.add_var(name = main_df.iloc[row,8], var_type = BINARY) for row in main_df.index]
+        main_df = pd.concat(period_df_list)
+        main_df = main_df.reset_index(drop = True)
+        return(main_df)
+    def constraint_1(self,repetition_interval):
+        for period in self.period_list[:-repetition_interval]:
+            list_periods_selected = []
+            for selected_period in range(period, period + repetition_interval + 1):
+                list_periods_selected.append(selected_period)
+            for recipe in self.unique_recipe_id_list:
+                selected_recipes = self.main_df.query("ix == @recipe and period in @list_periods_selected")
+                self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) <= 1
+    def constraint_2(self,n_assigned):
+        for period in self.period_list:
+            selected_recipes = self.main_df[self.main_df['period'] == period]
+            self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) == n_assigned
+    def constraint_3(self,target_calorie):
+        for period in self.period_list:
+            selected_recipes = self.main_df[self.main_df['period'] == period]
+            self.mipmodel += xsum(list(self.main_df['calories'])[i] * self.xij[i] for i in selected_recipes.index) / self.n_assigned >= target_calorie
+    def constraint_4(self,target_protein):
+        for period in self.period_list:
+            selected_recipes = self.main_df[self.main_df['period'] == period]
+            self.mipmodel += xsum(list(self.main_df['protein'])[i] * self.xij[i] for i in selected_recipes.index) / self.n_assigned >= target_protein
+    def constraint_5(self,target_fat):
+        for period in self.period_list:
+            selected_recipes = self.main_df[self.main_df['period'] == period]
+            self.mipmodel += xsum(list(self.main_df['fat'])[i] * self.xij[i] for i in selected_recipes.index) / self.n_assigned >= target_fat
+    def constraint_6(self,target_rating):
+        for period in self.period_list:
+            selected_recipes = self.main_df[self.main_df['period'] == period]
+            self.mipmodel += xsum(list(self.main_df['rating'])[i] * self.xij[i] for i in selected_recipes.index) >= self.n_assigned * target_rating
+    def constraint_7(self):
+        winter_period = [12, 1, 2]
+        selected_recipes = self.main_df.query("period in @winter_period")
+        selected_recipes = selected_recipes[selected_recipes['tags'].str.contains('summer')]
+        self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) == 0
+    def constraint_8(self):
+        summer_period = [6,7,8]
+        selected_recipes = self.main_df.query("period in @summer_period")
+        selected_recipes = selected_recipes[selected_recipes['tags'].str.contains('winter')]
+        self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) == 0
+    def constraint_9(self,target_tags):
+        tags_df = self.main_df['tags']
+        list_tags = []
+        for row in tags_df.index:
+            list_tags = list_tags + tags_df[row].split(',')
+        unique_list_tags = []
+        for item in list_tags:
+            if item not in unique_list_tags and item != '':
+                unique_list_tags.append(item)
+        for period in self.period_list:
+            selected_period = self.main_df[self.main_df['period'] == period]
+            for tag in unique_list_tags:
+                selected_recipes = selected_period[selected_period['tags'].str.contains(tag)]
+                self.mipmodel += sum(self.xij[i] for i in selected_recipes.index) <= target_tags
 
-# add objective function profit * decvar
-print(time.time())
-print('creating objective function')
-mipmodel.objective = maximize(xsum(list(main_df['profit'])[i] * dec_var[i] for i in main_df.index)/(30*len(period_list)))
-
-#lists
-unique_recipe_id_list = main_df['ix'].unique()
-period_list = main_df['period'].unique()
-
-#CONSTRAINTS##
-
-# #Every recipe can appear at most given value
-# for recipe in unique_recipe_id_list:
-#     selected_recipes = main_df[main_df['ix'] == recipe]
-#     mipmodel += sum(dec_var[i] for i in selected_recipes.index) <= 4
-
-#CONS 1 : repeat all recipes on given interval:
-repetition_interval = 2
-for period in period_list[:-repetition_interval]:
-    list_periods_selected = []
-    for selected_period in range(period, period + repetition_interval + 1):
-        list_periods_selected.append(selected_period)
-    for recipe in unique_recipe_id_list:
-        selected_recipes = main_df.query("ix == @recipe and period in @list_periods_selected")
-        mipmodel += sum(dec_var[i] for i in selected_recipes.index) <= 1
-
-#Assign 30 recipe per period
-for period in period_list:
-    selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += sum(dec_var[i] for i in selected_recipes.index) == 30
-
-#Average calorie per period greater than value
-for period in period_list:
-    selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['calories'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 890
-
-#Average protein per period greater than value
-for period in period_list:
-    selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['protein'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 55
-
-#Average fat per period greater than value
-for period in period_list:
-    selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['fat'])[i]*dec_var[i] for i in selected_recipes.index)/30 >= 57
-
-#Average rating per period greater than value
-for period in period_list:
-    selected_recipes = main_df[main_df['period'] == period]
-    mipmodel += xsum(list(main_df['rating'])[i]*dec_var[i] for i in selected_recipes.index) >= 30*4.05
-
-#No summer recipes allowed in winter
-winter_period = [12,1,2]
-selected_recipes = main_df.query("period in @winter_period")
-selected_recipes = selected_recipes[selected_recipes['tags'].str.contains('summer')]
-mipmodel += sum(dec_var[i] for i in selected_recipes.index) == 0
-
-#No winter recipes allowed in summer
-summer_period = [6,7,8]
-selected_recipes = main_df.query("period in @summer_period")
-selected_recipes = selected_recipes[selected_recipes['tags'].str.contains('winter')]
-mipmodel += sum(dec_var[i] for i in selected_recipes.index) == 0
-
-#Limiting the appearance of  same tag per period
-tags_df = main_df['tags']
-list_tags = []
-for row in tags_df.index:
-    list_tags = list_tags + tags_df[row].split(',')
-unique_list_tags = []
-for item in list_tags:
-    if item not in unique_list_tags and item != '':
-        unique_list_tags.append(item)
-for period in period_list:
-    selected_period = main_df[main_df['period'] == period]
-    for tag in unique_list_tags:
-        selected_recipes = selected_period[selected_period['tags'].str.contains(tag)]
-        mipmodel += sum(dec_var[i] for i in selected_recipes.index) <= 6
-
-mipmodel.write('model.mps')
-mipmodel.write('model.lp')
-
-#OPTIMIZE#
-mipmodel.max_mip_gap = 0.01
-status = mipmodel.optimize(max_seconds=3600)
-
-#RESULT#
-if status == OptimizationStatus.OPTIMAL:
-    print('optimal solution cost {} found'.format(mipmodel.objective_value))
-elif status == OptimizationStatus.FEASIBLE:
-    print('sol.cost {} found, best possible: {}'.format(mipmodel.objective_value, mipmodel.objective_bound))
-elif status == OptimizationStatus.NO_SOLUTION_FOUND:
-    print('no feasible solution found, lower bound is: {}'.format(mipmodel.objective_bound))
-if status == OptimizationStatus.OPTIMAL or status == OptimizationStatus.FEASIBLE:
-    print('solution:')
-    list_dec_var_solution = []
-    for v in mipmodel.vars:
-       if abs(v.x) > 1e-6: # only printing non-zeros
-          # print('{} : {}'.format(v.name, v.x))
-          list_dec_var_solution.append(v.name)
-    result_df = main_df[main_df['dec_var'].isin(list_dec_var_solution)]
-    result_df.to_csv('result')
-    print(result_df)
-
-
-
+model_1()
 
 
 
