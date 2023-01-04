@@ -11,8 +11,8 @@ class model_2():
         self.recipes_df = pd.read_csv('cleaned_db.csv')
         self.period_number = 12
         self.deviation_percentage = 0.05
-        self.r = 30
-        self.n_assigned = 60
+        self.r = 15
+        self.n_assigned = 30
 
         #prepare main dataframe and list of periods
         print(time.time())
@@ -52,7 +52,7 @@ class model_2():
         self.constraint_6_robust(3.95,self.r)
         self.constraint_7()
         self.constraint_8()
-        self.constraint_9(12)
+        self.constraint_9(6)
 
         self.mipmodel.write('model2.mps')
         self.mipmodel.write('model2.lp')
