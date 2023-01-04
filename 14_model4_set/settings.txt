@@ -1,0 +1,49 @@
+self.period_number = 12
+self.deviation_percentage = 0.05
+self.r = 10
+self.n_assigned = 30
+
+1   model ROOT  RELAXATION of ROBUST model
+
+        self.constraint_1(2)
+        self.constraint_2(self.n_assigned)
+        self.constraint_3(890)
+        self.constraint_4(55)
+        self.constraint_5(57)
+        #self.constraint_6(4)
+        self.constraint_6_robust(3.95, self.r)
+        self.constraint_7()
+        self.constraint_8()
+        self.constraint_9(6)
+
+    profit = self.root_relaxation() * 0.8
+
+2  model optimizing for rating,  model (1) , writing 1st model result as constraint
+
+        #CONSTRAINTS##
+        self.constraint_1(2)
+        self.constraint_2(self.n_assigned)
+        self.constraint_3(890)
+        self.constraint_4(55)
+        self.constraint_5(57)
+        self.constraint_6_profit(profit)
+        #self.constraint_6_worst_case(3.93)
+        self.constraint_7()
+        self.constraint_8()
+        self.constraint_9(6)
+
+
+3 initial start solution to robust model:
+
+              self.constraint_1(2)
+        self.constraint_2(self.n_assigned)
+        self.constraint_3(890)
+        self.constraint_4(55)
+        self.constraint_5(57)
+        #self.constraint_6(4)
+        self.constraint_6_robust(3.95, self.r)
+        self.constraint_7()
+        self.constraint_8()
+        self.constraint_9(6)
+
+
