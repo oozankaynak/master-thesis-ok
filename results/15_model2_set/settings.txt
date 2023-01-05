@@ -1,0 +1,17 @@
+        self.period_number = 12
+        self.deviation_percentage = 0.05
+        self.r = 15
+        self.n_assigned = 30
+        
+        self.constraint_1(2)
+        self.constraint_2(self.n_assigned)
+        self.constraint_3(890)
+        self.constraint_4(55)
+        self.constraint_5(57)
+        #self.constraint_6(4)
+        self.constraint_6_robust(3.95,self.r)
+        self.constraint_7()
+        self.constraint_8()
+        self.constraint_9(6)
+        
+        
